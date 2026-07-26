@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-07-25T23:57:11.385465+00:00",
+  "preserved_slot": "English",
+  "status": "pass",
+  "english_specific_assets": [
+    {
+      "path": "event/Script_E.dat",
+      "size": 519852,
+      "baseline_sha256": "dbde4474e3211d17049add2beb9f6781ce4a7087bf3153b04d806513b64d136b",
+      "live_preinstall_sha256": "dbde4474e3211d17049add2beb9f6781ce4a7087bf3153b04d806513b64d136b",
+      "byte_identical": true,
+      "live_postinstall_size": 519852,
+      "live_postinstall_sha256": "dbde4474e3211d17049add2beb9f6781ce4a7087bf3153b04d806513b64d136b",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "help/tutorial_E.dat",
+      "size": 31808,
+      "baseline_sha256": "2fe787730da8d93b50514fedc27052fa100709357629ec84a22db6fbbe4ff1bb",
+      "live_preinstall_sha256": "2fe787730da8d93b50514fedc27052fa100709357629ec84a22db6fbbe4ff1bb",
+      "byte_identical": true,
+      "live_postinstall_size": 31808,
+      "live_postinstall_sha256": "2fe787730da8d93b50514fedc27052fa100709357629ec84a22db6fbbe4ff1bb",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "table/tablePack_E.dat",
+      "size": 163552,
+      "baseline_sha256": "13904d6a3cac86e7ad32869ae07bd2d8ee44ed57cbc4753e83b7a733b550ca90",
+      "live_preinstall_sha256": "13904d6a3cac86e7ad32869ae07bd2d8ee44ed57cbc4753e83b7a733b550ca90",
+      "byte_identical": true,
+      "live_postinstall_size": 163552,
+      "live_postinstall_sha256": "13904d6a3cac86e7ad32869ae07bd2d8ee44ed57cbc4753e83b7a733b550ca90",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "table/tablePack_E.hed",
+      "size": 1672,
+      "baseline_sha256": "0580423de71bcb600d5ea1dedc0d916ba8d7db4257fc3355011c386ac31e1729",
+      "live_preinstall_sha256": "0580423de71bcb600d5ea1dedc0d916ba8d7db4257fc3355011c386ac31e1729",
+      "byte_identical": true,
+      "live_postinstall_size": 1672,
+      "live_postinstall_sha256": "0580423de71bcb600d5ea1dedc0d916ba8d7db4257fc3355011c386ac31e1729",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "graphic/title_en.exg",
+      "size": 20405176,
+      "baseline_sha256": "02b63d03a347ac8a54982ca6ac05a6a3a59ff39b8982e8574ae6ece87d744e9a",
+      "live_preinstall_sha256": "02b63d03a347ac8a54982ca6ac05a6a3a59ff39b8982e8574ae6ece87d744e9a",
+      "byte_identical": true,
+      "live_postinstall_size": 20405176,
+      "live_postinstall_sha256": "02b63d03a347ac8a54982ca6ac05a6a3a59ff39b8982e8574ae6ece87d744e9a",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "graphic/comTex/mapicBG_e.exg",
+      "size": 3686440,
+      "baseline_sha256": "b15071173c9a0c34271f3312d99a221edd5598c3b576f594c39c220f0f72c332",
+      "live_preinstall_sha256": "b15071173c9a0c34271f3312d99a221edd5598c3b576f594c39c220f0f72c332",
+      "byte_identical": true,
+      "live_postinstall_size": 3686440,
+      "live_postinstall_sha256": "b15071173c9a0c34271f3312d99a221edd5598c3b576f594c39c220f0f72c332",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "graphic/ev/ev_020_e.exg",
+      "size": 3686440,
+      "baseline_sha256": "1a9c1f8f13290ccb6b41afe20d9d72e5f2a2d2672fee857d0b92aaacbd32c2b2",
+      "live_preinstall_sha256": "1a9c1f8f13290ccb6b41afe20d9d72e5f2a2d2672fee857d0b92aaacbd32c2b2",
+      "byte_identical": true,
+      "live_postinstall_size": 3686440,
+      "live_postinstall_sha256": "1a9c1f8f13290ccb6b41afe20d9d72e5f2a2d2672fee857d0b92aaacbd32c2b2",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "graphic/soa_op_en.wmv",
+      "size": 93490819,
+      "baseline_sha256": "c3755c62318912b2f5752a0c99a0f2df3c6a01635f88ee9ed86bc2a0489c8f02",
+      "live_preinstall_sha256": "c3755c62318912b2f5752a0c99a0f2df3c6a01635f88ee9ed86bc2a0489c8f02",
+      "byte_identical": true,
+      "live_postinstall_size": 93490819,
+      "live_postinstall_sha256": "c3755c62318912b2f5752a0c99a0f2df3c6a01635f88ee9ed86bc2a0489c8f02",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "graphic/soa_op_en_h.wmv",
+      "size": 69521535,
+      "baseline_sha256": "754f959afb73aed74432ee3124dc8b6af27d04cd5af127ebcba72d050e230610",
+      "live_preinstall_sha256": "754f959afb73aed74432ee3124dc8b6af27d04cd5af127ebcba72d050e230610",
+      "byte_identical": true,
+      "live_postinstall_size": 69521535,
+      "live_postinstall_sha256": "754f959afb73aed74432ee3124dc8b6af27d04cd5af127ebcba72d050e230610",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "graphic/soa_op_en_h_off.wmv",
+      "size": 69521577,
+      "baseline_sha256": "fded80ad603edc1e52b8cbcc9128d71a8368494e0f62b356abb0a17626c98fe7",
+      "live_preinstall_sha256": "fded80ad603edc1e52b8cbcc9128d71a8368494e0f62b356abb0a17626c98fe7",
+      "byte_identical": true,
+      "live_postinstall_size": 69521577,
+      "live_postinstall_sha256": "fded80ad603edc1e52b8cbcc9128d71a8368494e0f62b356abb0a17626c98fe7",
+      "byte_identical_postinstall": true
+    },
+    {
+      "path": "graphic/soa_op_off_en.wmv",
+      "size": 94242819,
+      "baseline_sha256": "ac44495e59d48f8d99d34842072e83c28b2f5f212fe4f47d7e1464ff1fbb17e7",
+      "live_preinstall_sha256": "ac44495e59d48f8d99d34842072e83c28b2f5f212fe4f47d7e1464ff1fbb17e7",
+      "byte_identical": true,
+      "live_postinstall_size": 94242819,
+      "live_postinstall_sha256": "ac44495e59d48f8d99d34842072e83c28b2f5f212fe4f47d7e1464ff1fbb17e7",
+      "byte_identical_postinstall": true
+    }
+  ],
+  "checks": {
+    "english_specific_asset_count": 11,
+    "all_english_specific_assets_byte_identical_preinstall": true,
+    "english_specific_assets_excluded_from_patch_payload": true,
+    "shared_font_remapped_code_collision_count": 0,
+    "shared_font_english_text_unit_count": 18496,
+    "shared_executable_english_literals_unchanged": true,
+    "all_english_specific_assets_byte_identical_postinstall": true,
+    "live_postinstall_asset_count": 11,
+    "live_postinstall_payload_match_count": 16
+  },
+  "postinstall_reverification_required": false
+}

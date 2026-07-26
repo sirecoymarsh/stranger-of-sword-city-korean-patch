@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-07-25T23:57:11.386464+00:00",
+  "status": "pass",
+  "game_root": "Y:\\SteamLibrary\\steamapps\\common\\Stranger of Sword City",
+  "language_contract": {
+    "selected_slot": "Japanese",
+    "replacement_language": "Korean",
+    "preserved_slot": "English"
+  },
+  "checks": {
+    "live_payload_hashes": {
+      "status": "pass",
+      "matched": 16,
+      "expected": 16,
+      "files": [
+        {
+          "path": "StrangerOfSwordCity.exe",
+          "size": 2792448,
+          "sha256": "ca0c73ae36e4b317f7663f0e31a7db3db4f677dbec63f6cec09e1dfd2ea2cfee",
+          "expected_patched_sha256": "ca0c73ae36e4b317f7663f0e31a7db3db4f677dbec63f6cec09e1dfd2ea2cfee",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "event/Script.dat",
+          "size": 492856,
+          "sha256": "4d4bf286828ec74b6c568cb771b467d968406f1549c0e9536a908eb373df8866",
+          "expected_patched_sha256": "4d4bf286828ec74b6c568cb771b467d968406f1549c0e9536a908eb373df8866",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "fontdata/fontdata01.exp",
+          "size": 7480856,
+          "sha256": "a305a5261c0ac4bbd4b2e3f827ea21ea15702857a5d1423ed3159faee5969765",
+          "expected_patched_sha256": "a305a5261c0ac4bbd4b2e3f827ea21ea15702857a5d1423ed3159faee5969765",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "fontdata/fontdata02.exp",
+          "size": 4586201,
+          "sha256": "dea134b7fcee499b3d04c0c76f6d7520223c2d5accf9d5ae42493508c7dea5b7",
+          "expected_patched_sha256": "dea134b7fcee499b3d04c0c76f6d7520223c2d5accf9d5ae42493508c7dea5b7",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "graphic/soa_op.wmv",
+          "size": 110385848,
+          "sha256": "01581ad39be45053d0035b2037628e82303dc93c290b9794e01bfad9fcbaa19e",
+          "expected_patched_sha256": "01581ad39be45053d0035b2037628e82303dc93c290b9794e01bfad9fcbaa19e",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "graphic/soa_op_h.wmv",
+          "size": 78955059,
+          "sha256": "7d3711941dba7fec5b6f4b02fce8344eced8e31e1629c09d153bb5245fc71720",
+          "expected_patched_sha256": "7d3711941dba7fec5b6f4b02fce8344eced8e31e1629c09d153bb5245fc71720",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "graphic/soa_op_h_off.wmv",
+          "size": 78983859,
+          "sha256": "fd7e4bab76e7ee494a1be498db26629f8d262ee2b4a30123f3ee6f7e49f35cbd",
+          "expected_patched_sha256": "fd7e4bab76e7ee494a1be498db26629f8d262ee2b4a30123f3ee6f7e49f35cbd",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "graphic/soa_op_off.wmv",
+          "size": 110395448,
+          "sha256": "fe40a7108b96b57252c0e5e4f8d4e5ae001bc7e29c6fb512e243df31736f15de",
+          "expected_patched_sha256": "fe40a7108b96b57252c0e5e4f8d4e5ae001bc7e29c6fb512e243df31736f15de",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "graphic/title.exg",
+          "size": 20405176,
+          "sha256": "0ee390b999b7249df33797a4b06ce7d191965cf4a36e2b03218636c381aa74c4",
+          "expected_patched_sha256": "0ee390b999b7249df33797a4b06ce7d191965cf4a36e2b03218636c381aa74c4",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "graphic/comTex/mapicBG.exg",
+          "size": 3686440,
+          "sha256": "0fa6c4060746d3269b055ab1d44845d9a02a6bee3254f7a05bd305815860b25c",
+          "expected_patched_sha256": "0fa6c4060746d3269b055ab1d44845d9a02a6bee3254f7a05bd305815860b25c",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "graphic/ev/ev_020.exg",
+          "size": 3686440,
+          "sha256": "b050e315823470ad1027eef66d195ed9b84cf87699460f8d7000ad76eab3cc68",
+          "expected_patched_sha256": "b050e315823470ad1027eef66d195ed9b84cf87699460f8d7000ad76eab3cc68",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "help/tutorial.dat",
+          "size": 27468,
+          "sha256": "8ff5e12cc9f736fb30a63005d22a5dcb6073fdad4f921e4ccfd03951e5331d41",
+          "expected_patched_sha256": "8ff5e12cc9f736fb30a63005d22a5dcb6073fdad4f921e4ccfd03951e5331d41",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "table/sjis2uni.tbl",
+          "size": 46120,
+          "sha256": "9d6775b9f3efafca4e50fb5cbd24d18eca479b1845dc641d837ddbe1c1763cd8",
+          "expected_patched_sha256": "9d6775b9f3efafca4e50fb5cbd24d18eca479b1845dc641d837ddbe1c1763cd8",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "table/tablePack.dat",
+          "size": 142076,
+          "sha256": "4b2c62e817f6eba2fd1b966f5796459263eda666f4026b7b66614e18d27c279f",
+          "expected_patched_sha256": "4b2c62e817f6eba2fd1b966f5796459263eda666f4026b7b66614e18d27c279f",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "table/tablePack.hed",
+          "size": 1672,
+          "sha256": "5bc3bb66eb4f6d46bb5386053ad538e7f6af001ba6fc2cbb0590a5706f2dcadc",
+          "expected_patched_sha256": "5bc3bb66eb4f6d46bb5386053ad538e7f6af001ba6fc2cbb0590a5706f2dcadc",
+          "matches_patched_payload": true
+        },
+        {
+          "path": "table/uni2sjis.tbl",
+          "size": 46120,
+          "sha256": "a87ab11fe1fee8475c576a69bf8646d4043a34851f722cb9265e9f6b69ac9308",
+          "expected_patched_sha256": "a87ab11fe1fee8475c576a69bf8646d4043a34851f722cb9265e9f6b69ac9308",
+          "matches_patched_payload": true
+        }
+      ]
+    },
+    "steam_japanese_slot_configuration": {
+      "status": "pass",
+      "language_entry_count": 2
+    },
+    "live_korean_slot": {
+      "status": "pass",
+      "method": "in-game observation after selecting Japanese in Options and restarting the process",
+      "observed": [
+        "Korean title subtitle '검의 도시의 이방인'",
+        "Original English title-menu labels remain consistent between selected and unselected states",
+        "custom Korean font glyphs rendered without tofu on the title screen"
+      ]
+    },
+    "live_english_slot": {
+      "status": "pass",
+      "method": "in-game observation before switching to the replacement slot",
+      "observed": [
+        "official English title screen",
+        "official English opening dialogue beginning 'You finally open your eyes...'"
+      ]
+    },
+    "preserved_english_assets": {
+      "status": "pass",
+      "matched": 11,
+      "expected": 11,
+      "shared_font_english_text_units": 18496,
+      "shared_font_remapped_code_collisions": 0
+    },
+    "actual_staged_reverse_decode": {
+      "status": "pass",
+      "matched": 16378,
+      "expected": 16378,
+      "static_verification_sha256": "aafcb5cae3ead5ddccd167ee0d6e8f71f92e8e6e531dbf433c20b38bb32db345"
+    },
+    "opening_video_full_decode": {
+      "status": "pass",
+      "matched": 4,
+      "expected": 4
+    },
+    "transactional_restore_and_reinstall": {
+      "status": "pass",
+      "restored_backup": "C:\\Users\\CadriacLord\\OneDrive\\문서\\Stranger of Sword City Korean Patch Backups\\20260725-234228Z-2ea93f9b",
+      "restored_utc": "2026-07-25T23:54:53.3298546Z",
+      "active_backup": "C:\\Users\\CadriacLord\\OneDrive\\문서\\Stranger of Sword City Korean Patch Backups\\20260725-235539Z-46d23830",
+      "reinstalled_utc": "2026-07-25T23:55:44.3620061Z"
+    }
+  },
+  "known_original_ui_behavior": [
+    "New Game, Option, Load Data, and Exit intentionally retain their original English artwork so the normal and selected legacy render paths remain visually consistent."
+  ],
+  "verification_boundary": "Representative live slot, title, dialogue, and font checks were combined with exhaustive hash and reverse-decode verification; this is not a complete end-to-end playthrough of every branch.",
+  "final_state": {
+    "game_process": "stopped",
+    "installation": "patched",
+    "active_backup": "C:\\Users\\CadriacLord\\OneDrive\\문서\\Stranger of Sword City Korean Patch Backups\\20260725-235539Z-46d23830"
+  }
+}

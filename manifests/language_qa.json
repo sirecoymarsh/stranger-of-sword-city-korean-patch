@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "translation_map": "translations/translation_map.json",
+  "translation_map_sha256": "bb915815795b6fbdff07477b04fd28c0251f0afe5e8647a1139420b17307eb35",
+  "entry_count": 16378,
+  "lane_counts": {
+    "executable": 1470,
+    "table": 3792,
+    "tutorial": 575,
+    "script": 10541
+  },
+  "checks": {
+    "exact_catalog_order_and_uid": true,
+    "source_preconditions": true,
+    "korean_nonempty": true,
+    "japanese_residue_count": 0,
+    "invalid_character_count": 0,
+    "capacity_violation_count": 0,
+    "protected_token_mismatch_count": 0,
+    "newline_mismatch_count": 0,
+    "numeric_value_mismatch_count": 0,
+    "duplicate_uid_count": 0
+  },
+  "review": {
+    "machine_drafts_are_final": false,
+    "independent_contextual_review": true,
+    "semantic_source": "Japanese",
+    "official_english_cross_reference": true
+  }
+}

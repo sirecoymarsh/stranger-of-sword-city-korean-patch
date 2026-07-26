@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "package_id": "Stranger_of_Sword_City_Korean_Patch_v1.0",
+  "game": "Stranger of Sword City",
+  "steam_app_id": 409890,
+  "replacement_slot": "Japanese",
+  "semantic_source": "Japanese",
+  "preserved_slot": "English",
+  "process_names": [
+    "StrangerOfSwordCity"
+  ],
+  "file_count": 16,
+  "files": [
+    {
+      "path": "StrangerOfSwordCity.exe",
+      "original_size": 2719744,
+      "patched_size": 2792448,
+      "original_sha256": "a57f42c680b728ca0175867354aa07419706a362a193e42ae7edecd1f7fc3011",
+      "patched_sha256": "ca0c73ae36e4b317f7663f0e31a7db3db4f677dbec63f6cec09e1dfd2ea2cfee"
+    },
+    {
+      "path": "event/Script.dat",
+      "original_size": 518276,
+      "patched_size": 492856,
+      "original_sha256": "aa9728657cfd0725f13e5536df094298d1b5a02aeb0e2d99224ca567e966001c",
+      "patched_sha256": "4d4bf286828ec74b6c568cb771b467d968406f1549c0e9536a908eb373df8866"
+    },
+    {
+      "path": "fontdata/fontdata01.exp",
+      "original_size": 7565021,
+      "patched_size": 7480856,
+      "original_sha256": "51fc697e7fdd3f0c3a1142444fe1b990e039e1eee03db1918492c18a20e765c9",
+      "patched_sha256": "a305a5261c0ac4bbd4b2e3f827ea21ea15702857a5d1423ed3159faee5969765"
+    },
+    {
+      "path": "fontdata/fontdata02.exp",
+      "original_size": 4644624,
+      "patched_size": 4586201,
+      "original_sha256": "0e88d7bbc3847c1595fc1d5bdb41df4efc322bbf83600a75ceca05ae849016fc",
+      "patched_sha256": "dea134b7fcee499b3d04c0c76f6d7520223c2d5accf9d5ae42493508c7dea5b7"
+    },
+    {
+      "path": "graphic/soa_op.wmv",
+      "original_size": 97186819,
+      "patched_size": 110385848,
+      "original_sha256": "ef6fea9b4ca5aafb8302af6318da77d535c2d391c0618fc2f7adf82944d4a30e",
+      "patched_sha256": "01581ad39be45053d0035b2037628e82303dc93c290b9794e01bfad9fcbaa19e"
+    },
+    {
+      "path": "graphic/soa_op_h.wmv",
+      "original_size": 69611135,
+      "patched_size": 78955059,
+      "original_sha256": "7dd3f913240c47c28112a2ced2b34742ec965819eb88f275606bc54dafc45e5f",
+      "patched_sha256": "7d3711941dba7fec5b6f4b02fce8344eced8e31e1629c09d153bb5245fc71720"
+    },
+    {
+      "path": "graphic/soa_op_h_off.wmv",
+      "original_size": 69604735,
+      "patched_size": 78983859,
+      "original_sha256": "af9276911ca0421c17b495cd9e703e0592fd6d4302a59f3a11d425e49fa08eae",
+      "patched_sha256": "fd7e4bab76e7ee494a1be498db26629f8d262ee2b4a30123f3ee6f7e49f35cbd"
+    },
+    {
+      "path": "graphic/soa_op_off.wmv",
+      "original_size": 97042819,
+      "patched_size": 110395448,
+      "original_sha256": "74e93984ead9741e6413445f86a50525732554c9697659a36ce0edea2e862feb",
+      "patched_sha256": "fe40a7108b96b57252c0e5e4f8d4e5ae001bc7e29c6fb512e243df31736f15de"
+    },
+    {
+      "path": "graphic/title.exg",
+      "original_size": 20405176,
+      "patched_size": 20405176,
+      "original_sha256": "f07651013ac430af10918be0a8f58aa2dd620163f7f2891f370748183eea32f7",
+      "patched_sha256": "0ee390b999b7249df33797a4b06ce7d191965cf4a36e2b03218636c381aa74c4"
+    },
+    {
+      "path": "graphic/comTex/mapicBG.exg",
+      "original_size": 3686440,
+      "patched_size": 3686440,
+      "original_sha256": "44e23230e0fbd4b2ecc8e28b20515f64df9a3a4d83ac4f597edca15a651c66a4",
+      "patched_sha256": "0fa6c4060746d3269b055ab1d44845d9a02a6bee3254f7a05bd305815860b25c"
+    },
+    {
+      "path": "graphic/ev/ev_020.exg",
+      "original_size": 3686440,
+      "patched_size": 3686440,
+      "original_sha256": "d08304fa37c8e9c4283242744c50b6335953fb2ba8f1e3fb8051faaf8a19a3d0",
+      "patched_sha256": "b050e315823470ad1027eef66d195ed9b84cf87699460f8d7000ad76eab3cc68"
+    },
+    {
+      "path": "help/tutorial.dat",
+      "original_size": 30836,
+      "patched_size": 27468,
+      "original_sha256": "e0bd1de308f38b73c6270faed9db4759bdbf4df6a4a36b1adef570f47717c200",
+      "patched_sha256": "8ff5e12cc9f736fb30a63005d22a5dcb6073fdad4f921e4ccfd03951e5331d41"
+    },
+    {
+      "path": "table/sjis2uni.tbl",
+      "original_size": 46120,
+      "patched_size": 46120,
+      "original_sha256": "dbcd8985be4f70b570a0415c6bcc80edf3993792866f9b05e14c3ba2580ab64d",
+      "patched_sha256": "9d6775b9f3efafca4e50fb5cbd24d18eca479b1845dc641d837ddbe1c1763cd8"
+    },
+    {
+      "path": "table/tablePack.dat",
+      "original_size": 147634,
+      "patched_size": 142076,
+      "original_sha256": "5468c6b36699c81ddf866d07776220e213f3a41a6c335e9c1255fdce6c4f0f16",
+      "patched_sha256": "4b2c62e817f6eba2fd1b966f5796459263eda666f4026b7b66614e18d27c279f"
+    },
+    {
+      "path": "table/tablePack.hed",
+      "original_size": 1672,
+      "patched_size": 1672,
+      "original_sha256": "084222b80624383b96a9570ecf000cf605cb51330af22b8cd67a640ccbeb69eb",
+      "patched_sha256": "5bc3bb66eb4f6d46bb5386053ad538e7f6af001ba6fc2cbb0590a5706f2dcadc"
+    },
+    {
+      "path": "table/uni2sjis.tbl",
+      "original_size": 46120,
+      "patched_size": 46120,
+      "original_sha256": "fe73969bc179b52cf91a303f763f02b545175d649f8f01c202342b6dd1074da7",
+      "patched_sha256": "a87ab11fe1fee8475c576a69bf8646d4043a34851f722cb9265e9f6b69ac9308"
+    }
+  ]
+}

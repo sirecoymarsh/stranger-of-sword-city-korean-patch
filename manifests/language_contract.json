@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "game": {
+    "name": "Stranger of Sword City",
+    "steam_app_id": 409890,
+    "install_root": "Y:\\SteamLibrary\\steamapps\\common\\Stranger of Sword City"
+  },
+  "semantic_source": {
+    "language": "Japanese",
+    "slot": "Japanese",
+    "numeric_index": 0,
+    "assets": [
+      "event\\Script.dat",
+      "table\\tablePack.dat",
+      "table\\tablePack.hed",
+      "help\\tutorial.dat"
+    ]
+  },
+  "cross_reference": {
+    "language": "English",
+    "slot": "English",
+    "assets": [
+      "event\\Script_E.dat",
+      "table\\tablePack_E.dat",
+      "table\\tablePack_E.hed",
+      "help\\tutorial_E.dat",
+      "graphic\\en"
+    ]
+  },
+  "korean_output": {
+    "language": "Korean",
+    "replacement_language": "Japanese",
+    "slot": "Japanese",
+    "numeric_index": 0
+  },
+  "preserve": [
+    {
+      "language": "English",
+      "slot": "English",
+      "require_byte_identical": true
+    }
+  ],
+  "selector": {
+    "mode": "replace-existing-entry",
+    "internal_index": 0,
+    "old_label": "Japanese",
+    "new_label": "Korean",
+    "activation_instruction": "?? ?? ?? ???? Korean(?? Japanese ??)? ????."
+  },
+  "shared_asset_policy": {
+    "executable_patch_allowed": true,
+    "font_and_mapping_patch_allowed": true,
+    "graphics_patch_allowed": true,
+    "english_text_assets_must_remain_unchanged": true
+  },
+  "exceptions": [],
+  "approved_by_user": true,
+  "approval": {
+    "date": "2026-07-25",
+    "user_text": "????? ?? ???? ??. /goal ???? ????"
+  }
+}
