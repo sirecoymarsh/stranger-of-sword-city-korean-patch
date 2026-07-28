@@ -1,13 +1,23 @@
 {
-  "release": "v1.2",
-  "asset": "Stranger_of_Sword_City_Korean_Patch_v1.2.zip",
-  "size": 377609382,
-  "sha256": "31523d9e814865ecaa6dba62bb48d848663aeb7701d5581fa1452024baac7e91",
-  "visibility": "private",
-  "payload_file_count": 16,
-  "translation_entry_count": 16392,
-  "correction_count": 8185,
-  "terminology_repairs_from_v1_1": 185,
-  "game_executed": false,
-  "static_verification": "12/12 pass"
+    "schema_version":  2,
+    "release":  "v1.5",
+    "asset":  "Stranger_of_Sword_City_Korean_Patch_v1.5.zip",
+    "size":  347605177,
+    "sha256":  "49e9b53517c9b8908ee414a54bc14a54ab66a7eb6a09100d2e97d8ed71e6fff3",
+    "visibility":  "private",
+    "payload_file_count":  17,
+    "translation_entry_count":  20427,
+    "runtime_verification":  "partial_runtime_pass",
+    "translation_map_validation":  "20427/20427 pass; 0 warnings; 0 errors",
+    "fixture_verification":  {
+                                 "clean_install":  "pass",
+                                 "idempotent_reinstall":  "pass",
+                                 "restore":  "pass",
+                                 "mixed_state_restore":  "pass",
+                                 "tampered_package_rejection":  "pass",
+                                 "zip_extracted_install_verify_restore":  "pass"
+                             },
+    "package_manifest_sha256":  "fd408640c686df7e7248d53d3f9c0563d23a0116bee738f5043d51ffe2d72930",
+    "asset_status":  "verified_locally_not_committed_to_git",
+    "windows_defender_scan":  "unavailable: local Defender scan provider returned HRESULT 0x80070003"
 }
