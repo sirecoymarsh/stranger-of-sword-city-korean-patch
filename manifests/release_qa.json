@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-07-28T18:13:48.560Z",
+  "release": "v1.5",
+  "status": "candidate_verified",
+  "payload_file_count": 17,
+  "payload_hashes_bound_to_live_verified_files": true,
+  "game_process_count_at_capture": 0,
+  "source_translation_map_entry_count": 20427,
+  "google_translation_used": false,
+  "user_confirmed_runtime_repairs": [
+    "startup progression",
+    "Hangul name input",
+    "NPC speaker names",
+    "skit display",
+    "two-choice visibility",
+    "lower-choice centering"
+  ],
+  "final_header_restore": {
+    "asset": "graphic/comTex/comtex.exg",
+    "included_in_payload": false,
+    "original_sha256": "8b32f9a57a6527a6b4d23c82b206a5827183be6fabeec743b564ee9d3a6d84f4",
+    "verdict": "original intentional Latin header preserved",
+    "runtime_relaunch_after_restore": false
+  },
+  "final_package_tests": {
+    "translation_map_validator": "20427/20427 pass; 0 warnings; 0 errors",
+    "package_inventory": "pass",
+    "live_hash_verification": "17/17 pass",
+    "steam_library_auto_detection": "pass",
+    "clean_fixture_install": "pass",
+    "idempotent_reinstall": "pass",
+    "fixture_restore": "pass",
+    "mixed_original_patched_restore": "pass",
+    "tampered_package_rejected_before_write": "pass"
+  }
+}

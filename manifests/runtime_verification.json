@@ -1,19 +1,23 @@
 {
-  "schema_version": 2,
-  "generated_utc": "2026-07-28T06:13:34.252083+00:00",
-  "status": "not_run",
-  "game_executed": false,
-  "steam_executed": false,
-  "reason": "사용자 요청에 따라 게임을 실행하지 않고 정적 검증만 수행했다.",
-  "static_verification": {
-    "status": "pass",
-    "checks_passed": 12,
-    "checks_total": 12,
-    "report_sha256": "57571cea979e674f114402f52eaa9972515c73fa51ca8012efd493237bb9a850"
-  },
-  "verification_boundary": "실행·플레이 검증 없이 파일 구조, 해시, 문자열, 용량, 토큰, 글꼴과 보존 자산을 검증했다.",
+  "schema_version": 3,
+  "generated_utc": "2026-07-28T18:13:48.560Z",
+  "status": "partial_runtime_pass",
+  "game_executed": true,
+  "steam_executed": true,
+  "verified_runtime_observations": [
+    "시작 경고와 WMV3 오프닝을 지나 게임 화면으로 전환",
+    "한글 IME 이름 입력 및 '가' 글리프 표시",
+    "NPC 이름, 선택지, 도움말 창, 스킷 대사의 한국어 표시",
+    "2개 선택지 동시 표시와 하단 선택지 중앙 정렬",
+    "유니코드 한국어 종료 확인 대화상자",
+    "글리프 캐시 보호 적용 후 13.7분 연속 플레이에서 WER/덤프 없음"
+  ],
+  "final_static_only_observation": "선택 화면의 SELECT / Verum cur non audimus? 원문 라틴어 머리글 복구는 원본 해시 및 바이트로 확인했으며 복구 직후 재실행은 생략했다.",
+  "remaining_manual_boundary": "전체 플레이스루와 모든 후반 화면은 검증하지 않았다.",
   "final_state": {
-    "installation": "staged_only",
-    "installed_game_modified": false
+    "installation": "live_patched",
+    "installed_game_modified": true,
+    "published_to_git": true,
+    "git_visibility": "private"
   }
 }

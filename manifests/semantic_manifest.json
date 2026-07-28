@@ -1,9 +1,9 @@
 {
-  "schema_version": 2,
-  "generated_utc": "2026-07-28T06:13:34.252083+00:00",
+  "schema_version": 3,
+  "generated_utc": "2026-07-28T18:13:48.560Z",
   "game": "Stranger of Sword City",
   "steam_app_id": 409890,
-  "release": "v1.2",
+  "release": "v1.5",
   "language_contract": {
     "semantic_source": "Japanese",
     "cross_reference": "official English",
@@ -13,33 +13,42 @@
   },
   "translation_map": {
     "path": "manifests/translation_map.json",
-    "sha256": "a80bc9de3dd06eab15567f06ec9498b61cf26bc0886df1c72fb64b831fe9d2e6",
-    "entry_count": 16392,
+    "sha256": "7303b857e47c80dca0770191593afc2e17dbdff3ff6c133081dcf6310f12b2fb",
+    "entry_count": 20427,
     "lane_counts": {
       "script": 10555,
       "table": 3792,
       "tutorial": 575,
-      "executable": 1470
+      "executable": 1470,
+      "choice_single": 422,
+      "npc_speaker": 1593,
+      "choice_multi": 694,
+      "window_label": 278,
+      "skit": 1048
     }
   },
   "patch_scope": {
-    "payload_file_count": 16,
-    "custom_hangul_glyph_count": 1107,
-    "review_packet_count": 63,
-    "reviewed_row_count": 16392,
-    "correction_count": 8185
+    "payload_file_count": 17,
+    "fully_mapped_hangul_syllables": 11172,
+    "base_reviewed_rows": 16392,
+    "newly_cataloged_runtime_rows": 4035,
+    "added_payload": [
+      "table/layout.lod"
+    ],
+    "intentionally_excluded_original_asset": "graphic/comTex/comtex.exg"
   },
-  "quality": {
-    "independent_contextual_review": true,
-    "machine_drafts_are_final": false,
-    "terminology_audit_status": "pass",
-    "static_verification_status": "pass",
-    "static_verification_sha256": "57571cea979e674f114402f52eaa9972515c73fa51ca8012efd493237bb9a850",
-    "safe_stage_manifest_sha256": "9a58283da4c598bb13bfcb3d0dbae9c0bcfa49b7f60e162ae390192e6dd39c90",
-    "safe_builder_selftest_status": "pass",
-    "runtime_verification_status": "not_run_by_user_request",
-    "game_executed": false
-  },
+  "runtime_fixes": [
+    "CP949 IME input conversion and zero-clause guard",
+    "Unicode exit dialog",
+    "glyph-cache overflow guard",
+    "choice visibility, vertical balance, and duplicate gender-variant alignment",
+    "WMV3-compatible opening videos"
+  ],
+  "intentional_preservation": [
+    "title menu New Game / Option / Load Data / Exit",
+    "choice header SELECT / Verum cur non audimus?",
+    "official English language slot"
+  ],
   "reversibility": {
     "hash_bound_original_preconditions": true,
     "transactional_install": true,
@@ -47,9 +56,5 @@
     "atomic_replace": true,
     "mixed_state_recovery": true,
     "package_inventory_binding": true
-  },
-  "installation": {
-    "status": "staged_only",
-    "installed_game_modified": false
   }
 }
