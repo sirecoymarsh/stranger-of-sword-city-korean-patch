@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "algorithm": "SHA-256",
   "file_count_excluding_this_manifest": 28,
   "files": [
@@ -9,34 +9,49 @@
       "sha256": "e337c932d57f9bb64f691e0f3a71d0bbdf18c90f157957405246dba28a33a4d2"
     },
     {
+      "path": "README_KO.md",
+      "size": 3611,
+      "sha256": "58bab8d5613630802ab6e36e07ce82a18e618837a8bde26813703b6308a94408"
+    },
+    {
+      "path": "Restore-Original.ps1",
+      "size": 4918,
+      "sha256": "ea67298937e47f00861159794bb0616dfd8552a853b0b92703efd20b9d6ab803"
+    },
+    {
+      "path": "Verify-KoreanPatch.ps1",
+      "size": 1221,
+      "sha256": "ff066c0a3d0a3c80088d02d9fcb42d06f4a52108314152176312cf8a476eed68"
+    },
+    {
       "path": "manifests/english_preservation.json",
-      "size": 6142,
-      "sha256": "11debd22e59cb33e21575d24b633769eacd2625e0c9291f1a6f5137873a6d93e"
+      "size": 1057,
+      "sha256": "0b73cc4c6e4590fc5968bb84e6cd518e01fc1b587a7b6f0adffa55d41babb561"
     },
     {
       "path": "manifests/install_manifest.json",
-      "size": 5224,
-      "sha256": "eeb9959b9d3a3ebb523b6f86a0c786d2a04de6926878cbd30492e69a1da56372"
+      "size": 5347,
+      "sha256": "6d60d5b3b520fa6414bd24e43664857e38ca7acaf735a62d69fca81c33b7a8b6"
     },
     {
       "path": "manifests/language_contract.json",
-      "size": 1567,
-      "sha256": "08b25a58ed4f979f2185ab491b65b42d597a9086bb995a3766e2d5407f6f4cdf"
+      "size": 1332,
+      "sha256": "d01b5a085cc742094f2f699b70925b23c43eb603508d5f63da68472b0dfe33f0"
     },
     {
       "path": "manifests/language_qa.json",
-      "size": 890,
-      "sha256": "5b89ffd0362b8b53e292db378460323ca19dbb9be604c80b09b8f37d78df6341"
+      "size": 1175,
+      "sha256": "e90825dccc71cfc0397d4cd4ef82526f8984ce4bd0f427252e95db92f9ac7ee3"
     },
     {
       "path": "manifests/runtime_verification.json",
-      "size": 8321,
-      "sha256": "817d1c07003038c06829a0e719d633b41f454cc94640f8867afccacb8868ab1e"
+      "size": 719,
+      "sha256": "cf33f35d7c6edc1961b651bc394119cb99002ab797910ac6e08d12e25086c11c"
     },
     {
       "path": "manifests/semantic_manifest.json",
-      "size": 2001,
-      "sha256": "501fb3245540bd2699d02a4f75e087b06f6aa4bb8717f3bf764f26a1d7e06adc"
+      "size": 1764,
+      "sha256": "584ee2b186e56f9f8f51b57d06788b16132e12dadf13f71e41c3652f0d728c5f"
     },
     {
       "path": "manifests/style_guide.md",
@@ -45,13 +60,18 @@
     },
     {
       "path": "manifests/translation_map.json",
-      "size": 7092468,
-      "sha256": "bb915815795b6fbdff07477b04fd28c0251f0afe5e8647a1139420b17307eb35"
+      "size": 7192472,
+      "sha256": "53b13ace61be8291039f9da59aa6fe9b5c9cf0b9edf3c851215f63b9a9d896e9"
+    },
+    {
+      "path": "payload/StrangerOfSwordCity.exe",
+      "size": 2792448,
+      "sha256": "230899cacb1cd37bf58c6368e7d0ae49fef866966a690d2d328e09f17ca3a0d4"
     },
     {
       "path": "payload/event/Script.dat",
-      "size": 492856,
-      "sha256": "4d4bf286828ec74b6c568cb771b467d968406f1549c0e9536a908eb373df8866"
+      "size": 515924,
+      "sha256": "15df5ea06da7b159150373e2d3655f54a95c2d3939b1a2b7883efdacb1ce8e07"
     },
     {
       "path": "payload/fontdata/fontdata01.exp",
@@ -100,13 +120,8 @@
     },
     {
       "path": "payload/help/tutorial.dat",
-      "size": 27468,
-      "sha256": "8ff5e12cc9f736fb30a63005d22a5dcb6073fdad4f921e4ccfd03951e5331d41"
-    },
-    {
-      "path": "payload/StrangerOfSwordCity.exe",
-      "size": 2792448,
-      "sha256": "ca0c73ae36e4b317f7663f0e31a7db3db4f677dbec63f6cec09e1dfd2ea2cfee"
+      "size": 27404,
+      "sha256": "fe0d3f7528139dfdeba65df347d6e3061823f811c8dcce8c9627787c3116c36d"
     },
     {
       "path": "payload/table/sjis2uni.tbl",
@@ -115,33 +130,18 @@
     },
     {
       "path": "payload/table/tablePack.dat",
-      "size": 142076,
-      "sha256": "4b2c62e817f6eba2fd1b966f5796459263eda666f4026b7b66614e18d27c279f"
+      "size": 150276,
+      "sha256": "14af17e9bee4cc0032e2b3b9f9cc5f41ee125e00dac6c2f00e31635a5da5bfd4"
     },
     {
       "path": "payload/table/tablePack.hed",
       "size": 1672,
-      "sha256": "5bc3bb66eb4f6d46bb5386053ad538e7f6af001ba6fc2cbb0590a5706f2dcadc"
+      "sha256": "bc6fa6a38ba30b78509606e094db43942b2e2aa56dc34c195e86d7093833dc64"
     },
     {
       "path": "payload/table/uni2sjis.tbl",
       "size": 46120,
       "sha256": "a87ab11fe1fee8475c576a69bf8646d4043a34851f722cb9265e9f6b69ac9308"
-    },
-    {
-      "path": "README_KO.md",
-      "size": 2986,
-      "sha256": "57ec8abde7953e4faaa66a4e5e4de9fab1cc3b49438a034cb9c09cf9daad433b"
-    },
-    {
-      "path": "Restore-Original.ps1",
-      "size": 4918,
-      "sha256": "ea67298937e47f00861159794bb0616dfd8552a853b0b92703efd20b9d6ab803"
-    },
-    {
-      "path": "Verify-KoreanPatch.ps1",
-      "size": 1221,
-      "sha256": "ff066c0a3d0a3c80088d02d9fcb42d06f4a52108314152176312cf8a476eed68"
     }
   ]
 }

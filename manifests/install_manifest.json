@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "package_id": "Stranger_of_Sword_City_Korean_Patch_v1.0",
+  "schema_version": 2,
+  "package_id": "Stranger_of_Sword_City_Korean_Patch_v1.1",
   "game": "Stranger of Sword City",
   "steam_app_id": 409890,
   "replacement_slot": "Japanese",
@@ -16,14 +16,14 @@
       "original_size": 2719744,
       "patched_size": 2792448,
       "original_sha256": "a57f42c680b728ca0175867354aa07419706a362a193e42ae7edecd1f7fc3011",
-      "patched_sha256": "ca0c73ae36e4b317f7663f0e31a7db3db4f677dbec63f6cec09e1dfd2ea2cfee"
+      "patched_sha256": "230899cacb1cd37bf58c6368e7d0ae49fef866966a690d2d328e09f17ca3a0d4"
     },
     {
       "path": "event/Script.dat",
       "original_size": 518276,
-      "patched_size": 492856,
+      "patched_size": 515924,
       "original_sha256": "aa9728657cfd0725f13e5536df094298d1b5a02aeb0e2d99224ca567e966001c",
-      "patched_sha256": "4d4bf286828ec74b6c568cb771b467d968406f1549c0e9536a908eb373df8866"
+      "patched_sha256": "15df5ea06da7b159150373e2d3655f54a95c2d3939b1a2b7883efdacb1ce8e07"
     },
     {
       "path": "fontdata/fontdata01.exp",
@@ -91,9 +91,9 @@
     {
       "path": "help/tutorial.dat",
       "original_size": 30836,
-      "patched_size": 27468,
+      "patched_size": 27404,
       "original_sha256": "e0bd1de308f38b73c6270faed9db4759bdbf4df6a4a36b1adef570f47717c200",
-      "patched_sha256": "8ff5e12cc9f736fb30a63005d22a5dcb6073fdad4f921e4ccfd03951e5331d41"
+      "patched_sha256": "fe0d3f7528139dfdeba65df347d6e3061823f811c8dcce8c9627787c3116c36d"
     },
     {
       "path": "table/sjis2uni.tbl",
@@ -105,16 +105,16 @@
     {
       "path": "table/tablePack.dat",
       "original_size": 147634,
-      "patched_size": 142076,
+      "patched_size": 150276,
       "original_sha256": "5468c6b36699c81ddf866d07776220e213f3a41a6c335e9c1255fdce6c4f0f16",
-      "patched_sha256": "4b2c62e817f6eba2fd1b966f5796459263eda666f4026b7b66614e18d27c279f"
+      "patched_sha256": "14af17e9bee4cc0032e2b3b9f9cc5f41ee125e00dac6c2f00e31635a5da5bfd4"
     },
     {
       "path": "table/tablePack.hed",
       "original_size": 1672,
       "patched_size": 1672,
       "original_sha256": "084222b80624383b96a9570ecf000cf605cb51330af22b8cd67a640ccbeb69eb",
-      "patched_sha256": "5bc3bb66eb4f6d46bb5386053ad538e7f6af001ba6fc2cbb0590a5706f2dcadc"
+      "patched_sha256": "bc6fa6a38ba30b78509606e094db43942b2e2aa56dc34c195e86d7093833dc64"
     },
     {
       "path": "table/uni2sjis.tbl",
@@ -123,5 +123,7 @@
       "original_sha256": "fe73969bc179b52cf91a303f763f02b545175d649f8f01c202342b6dd1074da7",
       "patched_sha256": "a87ab11fe1fee8475c576a69bf8646d4043a34851f722cb9265e9f6b69ac9308"
     }
-  ]
+  ],
+  "release": "v1.1",
+  "upgrade_instruction": "v1.0 설치본은 v1.0 Restore-Original.ps1로 원본 복구 후 설치"
 }

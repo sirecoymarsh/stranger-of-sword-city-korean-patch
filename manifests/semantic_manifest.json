@@ -1,8 +1,9 @@
 {
-  "schema_version": 1,
-  "generated_utc": "2026-07-25T23:57:11.388464+00:00",
+  "schema_version": 2,
+  "generated_utc": "2026-07-28T05:24:05.361734+00:00",
   "game": "Stranger of Sword City",
   "steam_app_id": 409890,
+  "release": "v1.1",
   "language_contract": {
     "semantic_source": "Japanese",
     "cross_reference": "official English",
@@ -11,33 +12,33 @@
     "preserved_slot": "English"
   },
   "translation_map": {
-    "path": "translations/translation_map.json",
-    "sha256": "bb915815795b6fbdff07477b04fd28c0251f0afe5e8647a1139420b17307eb35",
-    "entry_count": 16378,
+    "path": "manifests/translation_map.json",
+    "sha256": "53b13ace61be8291039f9da59aa6fe9b5c9cf0b9edf3c851215f63b9a9d896e9",
+    "entry_count": 16392,
     "lane_counts": {
-      "executable": 1470,
+      "script": 10555,
       "table": 3792,
       "tutorial": 575,
-      "script": 10541
+      "executable": 1470
     }
   },
   "patch_scope": {
     "payload_file_count": 16,
-    "custom_glyph_count": 1109,
-    "executable_reference_count": 1505,
-    "opening_video_variant_count": 4,
-    "graphic_container_count": 3
+    "custom_hangul_glyph_count": 1107,
+    "review_packet_count": 63,
+    "reviewed_row_count": 16392,
+    "correction_count": 8143
   },
   "quality": {
     "independent_contextual_review": true,
     "machine_drafts_are_final": false,
-    "actual_staged_decode_matches_frozen_entries": 16378,
+    "terminology_audit_status": "pass",
     "static_verification_status": "pass",
-    "static_verification_sha256": "aafcb5cae3ead5ddccd167ee0d6e8f71f92e8e6e531dbf433c20b38bb32db345",
-    "runtime_verification_status": "pass",
-    "runtime_verification_sha256": "817d1c07003038c06829a0e719d633b41f454cc94640f8867afccacb8868ab1e",
-    "english_preservation_status": "pass",
-    "english_preservation_sha256": "11debd22e59cb33e21575d24b633769eacd2625e0c9291f1a6f5137873a6d93e"
+    "static_verification_sha256": "8d74e4f9adf1eb51622436a143d933d071bc7da3a689b1bd90b0d928fb032f20",
+    "safe_stage_manifest_sha256": "1eb1915cb85ec7743d47bd40ef7d3b76f1420c425b500bc8c8c2ea4ef2749e0f",
+    "safe_builder_selftest_status": "pass",
+    "runtime_verification_status": "not_run_by_user_request",
+    "game_executed": false
   },
   "reversibility": {
     "hash_bound_original_preconditions": true,
@@ -48,9 +49,7 @@
     "package_inventory_binding": true
   },
   "installation": {
-    "status": "installed",
-    "live_payload_match_count": 16,
-    "restore_cycle_status": "pass",
-    "active_backup": "C:\\Users\\CadriacLord\\OneDrive\\문서\\Stranger of Sword City Korean Patch Backups\\20260725-235539Z-46d23830"
+    "status": "staged_only",
+    "installed_game_modified": false
   }
 }

@@ -1,9 +1,12 @@
 {
-    "release":  "v1.0",
-    "asset":  "Stranger_of_Sword_City_Korean_Patch_v1.0.zip",
-    "size":  377608355,
-    "sha256":  "a4cc3487bb301a3f5f54a4a277945e7da5aabeada6c44164a9ad413516b4b495",
-    "visibility":  "private",
-    "payload_file_count":  16,
-    "translation_entry_count":  16378
+  "release": "v1.1",
+  "asset": "Stranger_of_Sword_City_Korean_Patch_v1.1.zip",
+  "size": 377609382,
+  "sha256": "7c69f68a05245842b82c85c71289582dbf4fe45d57f880b741767c3f805f45c8",
+  "visibility": "private",
+  "payload_file_count": 16,
+  "translation_entry_count": 16392,
+  "correction_count": 8143,
+  "game_executed": false,
+  "static_verification": "12/12 pass"
 }

@@ -1,30 +1,37 @@
 {
-  "schema_version": 1,
-  "translation_map": "translations/translation_map.json",
-  "translation_map_sha256": "bb915815795b6fbdff07477b04fd28c0251f0afe5e8647a1139420b17307eb35",
-  "entry_count": 16378,
+  "schema_version": 2,
+  "generated_utc": "2026-07-28T05:24:05.361734+00:00",
+  "translation_map": "manifests/translation_map.json",
+  "translation_map_sha256": "53b13ace61be8291039f9da59aa6fe9b5c9cf0b9edf3c851215f63b9a9d896e9",
+  "entry_count": 16392,
   "lane_counts": {
-    "executable": 1470,
+    "script": 10555,
     "table": 3792,
     "tutorial": 575,
-    "script": 10541
-  },
-  "checks": {
-    "exact_catalog_order_and_uid": true,
-    "source_preconditions": true,
-    "korean_nonempty": true,
-    "japanese_residue_count": 0,
-    "invalid_character_count": 0,
-    "capacity_violation_count": 0,
-    "protected_token_mismatch_count": 0,
-    "newline_mismatch_count": 0,
-    "numeric_value_mismatch_count": 0,
-    "duplicate_uid_count": 0
+    "executable": 1470
   },
   "review": {
-    "machine_drafts_are_final": false,
-    "independent_contextual_review": true,
+    "packet_count": 63,
+    "reviewed_row_count": 16392,
+    "correction_count": 8143,
     "semantic_source": "Japanese",
-    "official_english_cross_reference": true
-  }
+    "official_english_cross_reference": true,
+    "machine_drafts_are_final": false
+  },
+  "checks": {
+    "packet_hash_binding": "pass",
+    "exact_catalog_order_and_uid": "pass",
+    "protected_token_signature": "pass",
+    "font_and_codec_closure": "pass",
+    "known_width_limits": "pass",
+    "unknown_layout_no_growth": "pass",
+    "item_stats_unchanged_records": 0,
+    "english_preserved": true,
+    "terminology_occurrences_checked": 561,
+    "terminology_violations": 0,
+    "independent_static_checks_passed": 12,
+    "independent_static_checks_total": 12,
+    "safe_builder_selftests_passed": 7
+  },
+  "game_executed": false
 }
