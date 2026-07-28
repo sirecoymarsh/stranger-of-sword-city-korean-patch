@@ -10,8 +10,8 @@
     },
     {
       "path": "README_KO.md",
-      "size": 3611,
-      "sha256": "58bab8d5613630802ab6e36e07ce82a18e618837a8bde26813703b6308a94408"
+      "size": 4197,
+      "sha256": "455f67456480d3b55bfb117d1b7ccff6deee1a38f286d4957e1f164876e21e72"
     },
     {
       "path": "Restore-Original.ps1",
@@ -26,12 +26,12 @@
     {
       "path": "manifests/english_preservation.json",
       "size": 1057,
-      "sha256": "0b73cc4c6e4590fc5968bb84e6cd518e01fc1b587a7b6f0adffa55d41babb561"
+      "sha256": "10824d49768f7d0bacc87f07c18da718394728fe77795ab54d1eb7a4699af72b"
     },
     {
       "path": "manifests/install_manifest.json",
       "size": 5347,
-      "sha256": "6d60d5b3b520fa6414bd24e43664857e38ca7acaf735a62d69fca81c33b7a8b6"
+      "sha256": "4eb9d85d530b46e7682fd096ff759df4c4a2ded48641180fb4da03e668737b42"
     },
     {
       "path": "manifests/language_contract.json",
@@ -41,17 +41,17 @@
     {
       "path": "manifests/language_qa.json",
       "size": 1175,
-      "sha256": "e90825dccc71cfc0397d4cd4ef82526f8984ce4bd0f427252e95db92f9ac7ee3"
+      "sha256": "a8cb4563c34058c07113fc4211aa12c8d69dc0be8b155089f8d125d6971d321e"
     },
     {
       "path": "manifests/runtime_verification.json",
       "size": 719,
-      "sha256": "cf33f35d7c6edc1961b651bc394119cb99002ab797910ac6e08d12e25086c11c"
+      "sha256": "9a7426a68a77203e9aa83fd8879db99f48b2f17a239e65c1cab892f553afe28a"
     },
     {
       "path": "manifests/semantic_manifest.json",
       "size": 1764,
-      "sha256": "584ee2b186e56f9f8f51b57d06788b16132e12dadf13f71e41c3652f0d728c5f"
+      "sha256": "afc79039170b8191e9e3c139df257e1e8052c4de73fc85b52f79a72b9cca4438"
     },
     {
       "path": "manifests/style_guide.md",
@@ -60,18 +60,18 @@
     },
     {
       "path": "manifests/translation_map.json",
-      "size": 7192472,
-      "sha256": "53b13ace61be8291039f9da59aa6fe9b5c9cf0b9edf3c851215f63b9a9d896e9"
+      "size": 7192285,
+      "sha256": "a80bc9de3dd06eab15567f06ec9498b61cf26bc0886df1c72fb64b831fe9d2e6"
     },
     {
       "path": "payload/StrangerOfSwordCity.exe",
       "size": 2792448,
-      "sha256": "230899cacb1cd37bf58c6368e7d0ae49fef866966a690d2d328e09f17ca3a0d4"
+      "sha256": "67abb446399d8e029a4fc1f3af17828351b29cd870e13b19f53417a1c2e0978b"
     },
     {
       "path": "payload/event/Script.dat",
-      "size": 515924,
-      "sha256": "15df5ea06da7b159150373e2d3655f54a95c2d3939b1a2b7883efdacb1ce8e07"
+      "size": 515836,
+      "sha256": "dca4db2d0e7e4748bb6104f1f6a57f330e65225cd8fdc0ab3c9b72bc52d777fa"
     },
     {
       "path": "payload/fontdata/fontdata01.exp",
@@ -130,13 +130,13 @@
     },
     {
       "path": "payload/table/tablePack.dat",
-      "size": 150276,
-      "sha256": "14af17e9bee4cc0032e2b3b9f9cc5f41ee125e00dac6c2f00e31635a5da5bfd4"
+      "size": 150262,
+      "sha256": "00b903b685e5eaef255f9ce0bbd777bfe9b5c1af2d4477a29b3490b03e0d367d"
     },
     {
       "path": "payload/table/tablePack.hed",
       "size": 1672,
-      "sha256": "bc6fa6a38ba30b78509606e094db43942b2e2aa56dc34c195e86d7093833dc64"
+      "sha256": "0422c7cb42fbe298ac71f80b09748d65f2b0cb3735da5988bd7684320951f782"
     },
     {
       "path": "payload/table/uni2sjis.tbl",

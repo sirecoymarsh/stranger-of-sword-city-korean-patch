@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-28T05:24:05.361734+00:00",
+  "generated_utc": "2026-07-28T06:13:34.252083+00:00",
   "status": "not_run",
   "game_executed": false,
   "steam_executed": false,
@@ -9,7 +9,7 @@
     "status": "pass",
     "checks_passed": 12,
     "checks_total": 12,
-    "report_sha256": "8d74e4f9adf1eb51622436a143d933d071bc7da3a689b1bd90b0d928fb032f20"
+    "report_sha256": "57571cea979e674f114402f52eaa9972515c73fa51ca8012efd493237bb9a850"
   },
   "verification_boundary": "실행·플레이 검증 없이 파일 구조, 해시, 문자열, 용량, 토큰, 글꼴과 보존 자산을 검증했다.",
   "final_state": {

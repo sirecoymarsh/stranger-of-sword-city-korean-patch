@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-28T05:24:05.361734+00:00",
+  "generated_utc": "2026-07-28T06:13:34.252083+00:00",
   "translation_map": "manifests/translation_map.json",
-  "translation_map_sha256": "53b13ace61be8291039f9da59aa6fe9b5c9cf0b9edf3c851215f63b9a9d896e9",
+  "translation_map_sha256": "a80bc9de3dd06eab15567f06ec9498b61cf26bc0886df1c72fb64b831fe9d2e6",
   "entry_count": 16392,
   "lane_counts": {
     "script": 10555,
@@ -13,7 +13,7 @@
   "review": {
     "packet_count": 63,
     "reviewed_row_count": 16392,
-    "correction_count": 8143,
+    "correction_count": 8185,
     "semantic_source": "Japanese",
     "official_english_cross_reference": true,
     "machine_drafts_are_final": false
@@ -27,7 +27,7 @@
     "unknown_layout_no_growth": "pass",
     "item_stats_unchanged_records": 0,
     "english_preserved": true,
-    "terminology_occurrences_checked": 561,
+    "terminology_occurrences_checked": 372,
     "terminology_violations": 0,
     "independent_static_checks_passed": 12,
     "independent_static_checks_total": 12,

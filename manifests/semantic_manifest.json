@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_utc": "2026-07-28T05:24:05.361734+00:00",
+  "generated_utc": "2026-07-28T06:13:34.252083+00:00",
   "game": "Stranger of Sword City",
   "steam_app_id": 409890,
-  "release": "v1.1",
+  "release": "v1.2",
   "language_contract": {
     "semantic_source": "Japanese",
     "cross_reference": "official English",
@@ -13,7 +13,7 @@
   },
   "translation_map": {
     "path": "manifests/translation_map.json",
-    "sha256": "53b13ace61be8291039f9da59aa6fe9b5c9cf0b9edf3c851215f63b9a9d896e9",
+    "sha256": "a80bc9de3dd06eab15567f06ec9498b61cf26bc0886df1c72fb64b831fe9d2e6",
     "entry_count": 16392,
     "lane_counts": {
       "script": 10555,
@@ -27,15 +27,15 @@
     "custom_hangul_glyph_count": 1107,
     "review_packet_count": 63,
     "reviewed_row_count": 16392,
-    "correction_count": 8143
+    "correction_count": 8185
   },
   "quality": {
     "independent_contextual_review": true,
     "machine_drafts_are_final": false,
     "terminology_audit_status": "pass",
     "static_verification_status": "pass",
-    "static_verification_sha256": "8d74e4f9adf1eb51622436a143d933d071bc7da3a689b1bd90b0d928fb032f20",
-    "safe_stage_manifest_sha256": "1eb1915cb85ec7743d47bd40ef7d3b76f1420c425b500bc8c8c2ea4ef2749e0f",
+    "static_verification_sha256": "57571cea979e674f114402f52eaa9972515c73fa51ca8012efd493237bb9a850",
+    "safe_stage_manifest_sha256": "9a58283da4c598bb13bfcb3d0dbae9c0bcfa49b7f60e162ae390192e6dd39c90",
     "safe_builder_selftest_status": "pass",
     "runtime_verification_status": "not_run_by_user_request",
     "game_executed": false

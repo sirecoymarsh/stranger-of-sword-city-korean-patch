@@ -22,24 +22,24 @@
       "sha256": "1a2afd58ca7710774a025b8945c110f702ed2ba07f20a9e3a742610b4d9a4324"
     },
     {
-      "path": "semantic_corrections_full_review.json",
-      "sha256": "0480eb6d5d961bf71adea21d98084e97b952b4feab9a25dcfddb0397067a7f2c"
+      "path": "semantic_corrections_v1.2.json",
+      "sha256": "c5df519fb6cb5222fbed3bb9ee744ccdb9a2b79f204131747bf21efddb7c21cc"
     },
     {
-      "path": "semantic_review_compilation_report.json",
-      "sha256": "621d31c518a8c980a9871a4e44c5f4fcf4813d4ed75bc63cfcdf9172088057c5"
+      "path": "semantic_review_compilation_report_v1.2.json",
+      "sha256": "ebf00adc24227a986093fd5716ee0bc8ee16d819bf0e7aa21735993856c0f9c0"
     },
     {
-      "path": "final_terminology_audit.json",
-      "sha256": "35339112abb044b782e716dafff49248ac3cc88e20c838a2dab7c773130fdab6"
+      "path": "final_terminology_audit_v1.2.json",
+      "sha256": "b592e105b0f809cb2b2daccc09b2f91693d513a8a3a9349c0f48c60ba7d53ad2"
     },
     {
       "path": "safe_stage_manifest.json",
-      "sha256": "1eb1915cb85ec7743d47bd40ef7d3b76f1420c425b500bc8c8c2ea4ef2749e0f"
+      "sha256": "9a58283da4c598bb13bfcb3d0dbae9c0bcfa49b7f60e162ae390192e6dd39c90"
     },
     {
-      "path": "safe_staging_precision_review_v2_independent_verification.json",
-      "sha256": "8d74e4f9adf1eb51622436a143d933d071bc7da3a689b1bd90b0d928fb032f20"
+      "path": "safe_staging_v1.2_independent_verification.json",
+      "sha256": "57571cea979e674f114402f52eaa9972515c73fa51ca8012efd493237bb9a850"
     },
     {
       "path": "safe_stage_selftest_report.json",
@@ -1538,7 +1538,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "◆「陰の王宮」の最下層部へ",
       "source_en": "◆Deepest area of Shadow Palace",
-      "korean": "◆「그늘의 왕궁」 최하층으로",
+      "korean": "◆「그림자 왕궁」 최하층으로",
       "protected_tokens": [],
       "capacity_bytes": 27,
       "status": "precision_reviewed_static_verified"
@@ -1560,7 +1560,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "　これがあれば「陰の王宮」の最下層部から、「湖」へと入れるそうだ。",
       "source_en": "　You can enter the lake in the lowest area with this.",
-      "korean": "이 부적이 있으면 「그늘의 왕궁」 최하층에서 「호수」로 들어갈 수 있다.",
+      "korean": "이 부적이 있으면 「그림자 왕궁」 최하층에서 「호수」로 들어갈 수 있다.",
       "protected_tokens": [],
       "capacity_bytes": 71,
       "status": "precision_reviewed_static_verified"
@@ -1681,7 +1681,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "◇「地下死街への鍵」を入手",
       "source_en": "◇Obtained \"Key to the Underground Ghost Town\"",
-      "korean": "◇지하 사령가 열쇠 획득",
+      "korean": "◇유령 도시 열쇠 획득",
       "protected_tokens": [],
       "capacity_bytes": 23,
       "status": "precision_reviewed_static_verified"
@@ -2143,7 +2143,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "　「地下死街」にて、またあの「老人」が現れた。",
       "source_en": "　The Elder appeared again in the Underground Ghost Town.",
-      "korean": "'지하 사령가'에서 또 그 '노인'이 나타났다.",
+      "korean": "'유령 도시'에서 또 그 '노인'이 나타났다.",
       "protected_tokens": [],
       "capacity_bytes": 43,
       "status": "precision_reviewed_static_verified"
@@ -2396,7 +2396,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "　「老人」の置き土産である「巣の鏡の鍵」があれば、「地下死街」の底から",
       "source_en": "　If you have the Elder's key to the mirror in the nest,",
-      "korean": "노인이 남긴 「둥지 거울 열쇠」가 있으면 「지하 사령가」 바닥에서",
+      "korean": "노인이 남긴 「둥지 거울 열쇠」가 있으면 「유령 도시」 바닥에서",
       "protected_tokens": [],
       "capacity_bytes": 67,
       "status": "precision_reviewed_static_verified"
@@ -2893,7 +2893,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "疾風のごとく剣の街の空を駆け……",
       "source_en": "zooms through Sword City!",
-      "korean": "질풍처럼 검의 거리의 하늘을 달려…",
+      "korean": "질풍처럼 검의 도시의 하늘을 달려…",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -3784,7 +3784,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "　これで剣の街に存在する３人の「器の者」すべてと面会した事になる。",
       "source_en": "　Now you have met all three of the \"Vessels\" in Sword City.",
-      "korean": "이로써 검의 거리에 있는 세 명의 「그릇을 지닌 자」를 모두 만났다.",
+      "korean": "이로써 검의 도시에 있는 세 명의 「그릇을 지닌 자」를 모두 만났다.",
       "protected_tokens": [],
       "capacity_bytes": 71,
       "status": "precision_reviewed_static_verified"
@@ -4400,7 +4400,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "　この剣の街に潜む闇は、思ったより遥かに深いようだ。",
       "source_en": "　Sword City is dirtier than you might think...",
-      "korean": "이 검의 거리에 숨어 있는 어둠은 생각보다 훨씬 깊은 것 같다.",
+      "korean": "이 검의 도시에 숨어 있는 어둠은 생각보다 훨씬 깊은 것 같다.",
       "protected_tokens": [],
       "capacity_bytes": 59,
       "status": "precision_reviewed_static_verified"
@@ -4576,7 +4576,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "　「陰の王宮」でヘルガと出会った。",
       "source_en": "　You have encountered Helga in the Shadow Palace.",
-      "korean": "「그늘의 왕궁」에서 헬가와 만났다.",
+      "korean": "「그림자 왕궁」에서 헬가와 만났다.",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -4609,7 +4609,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "◆「陰の王宮」へ",
       "source_en": "◆To Shadow Palace",
-      "korean": "◆「그늘의 왕궁」으로",
+      "korean": "◆「그림자 왕궁」으로",
       "protected_tokens": [],
       "capacity_bytes": 19,
       "status": "precision_reviewed_static_verified"
@@ -4653,7 +4653,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "　装備を確認してから「王宮市街」にある「陰の王宮」へ向かおう。",
       "source_en": "　Check your gear, then go to Shadow Palace from the Palace.",
-      "korean": "장비를 확인한 뒤 「왕궁 시가지」에 있는 「그늘의 왕궁」으로 향하자.",
+      "korean": "장비를 확인한 뒤 「왕궁 시가지」에 있는 「그림자 왕궁」으로 향하자.",
       "protected_tokens": [],
       "capacity_bytes": 63,
       "status": "precision_reviewed_static_verified"
@@ -7694,7 +7694,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "これからも剣の街の未来のため、",
       "source_en": "Please use those powers for justice",
-      "korean": "앞으로도 검의 거리의 미래를 위해",
+      "korean": "앞으로도 검의 도시의 미래를 위해",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -12710,7 +12710,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "渡した鍵は @0r地下死街 @0rと呼ばれる迷宮に",
       "source_en": "The plan is to access the labyrinth",
-      "korean": "그 열쇠는 @0r지하 사령가@0r에",
+      "korean": "그 열쇠는 @0r유령 도시@0r에",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -13396,7 +13396,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r嵐の廟 @0rはこの剣の街でも、",
       "source_en": "The  @0rMausoleum of Storms @0r is an ",
-      "korean": "@0r폭풍의 묘@0r는 검의 거리에서도",
+      "korean": "@0r폭풍의 묘@0r는 검의 도시에서도",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -13542,7 +13542,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r嵐の廟 @0rはこの剣の街でも、",
       "source_en": "The  @0rMausoleum of Storms @0r is an",
-      "korean": "@0r폭풍의 묘@0r는 검의 거리에서도",
+      "korean": "@0r폭풍의 묘@0r는 검의 도시에서도",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -14001,7 +14001,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "今の剣の街は平穏そのもの……",
       "source_en": "Sword City is relatively peaceful.",
-      "korean": "지금 검의 거리는 평온 그 자체……",
+      "korean": "지금 검의 도시는 평온 그 자체……",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -14433,7 +14433,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r軽刃 @0rや @0r重刃 @0rのスキルを習得しておるが……",
       "source_en": "",
-      "korean": "@0r경인@0r과 @0r중인@0r 스킬을 익혔지만……",
+      "korean": "@0r경검@0r과 @0r중검@0r 스킬을 익혔지만……",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -17230,7 +17230,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "いまの剣の街は平静を保っているが……",
       "source_en": "Sword City is at peace, but the",
-      "korean": "검의 거리는 평온하지만……",
+      "korean": "검의 도시는 평온하지만……",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -17798,7 +17798,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街に留まっているとも思えぬ。",
       "source_en": "staying at Sword City that long.",
-      "korean": "검의 거리에 머물 것 같진 않군.",
+      "korean": "검의 도시에 머물 것 같진 않군.",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -21801,7 +21801,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "しかしその彼らも、陰の王宮では",
       "source_en": "But they've been captured by the",
-      "korean": "하지만 그들도 그늘의 왕궁에서",
+      "korean": "하지만 그들도 그림자 왕궁에서",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -22195,7 +22195,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r陰の王宮 @0rにて行う予定だ。",
       "source_en": "will be held at  @0rShadow Palace @0r.",
-      "korean": "@0r그늘의 왕궁@0r에서 진행한다.",
+      "korean": "@0r그림자 왕궁@0r에서 진행한다.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -22281,7 +22281,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "それでは、 @0r陰の王宮 @0rにてまみえよう。",
       "source_en": "See you at the  @0rShadow Palace @0r.",
-      "korean": "그럼 @0r그늘의 왕궁@0r에서 만나자.",
+      "korean": "그럼 @0r그림자 왕궁@0r에서 만나자.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -23583,7 +23583,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r陰の王宮 @0rに珍しいスライムが出たって、",
       "source_en": "There is a rumor that a rare slime",
-      "korean": "@0r그늘의 왕궁@0r에 희귀한 슬라임이 나타났다는",
+      "korean": "@0r그림자 왕궁@0r에 희귀한 슬라임이 나타났다는",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -23729,7 +23729,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "M01剣の街の異邦人（スタッフロール）",
       "source_en": "M01剣の街の異邦人（スタッフロール）",
-      "korean": "M01 검의 거리의 이방인(제작진)",
+      "korean": "M01 검의 도시의 이방인(제작진)",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -24345,7 +24345,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "M38剣の街の異邦人ループ版（イベント：ここぞの）",
       "source_en": "M38剣の街の異邦人ループ版（イベント：ここぞの）",
-      "korean": "M38 검의 거리의 이방인 루프판(이벤트: 결정적 순간)",
+      "korean": "M38 검의 도시의 이방인 루프판(이벤트: 결정적 순간)",
       "protected_tokens": [],
       "capacity_bytes": 47,
       "status": "precision_reviewed_static_verified"
@@ -25391,7 +25391,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r陰の王宮 @0rには、",
       "source_en": "You know about the  @0rArmor Knights @0r",
-      "korean": "@0r그늘의 왕궁@0r에는,",
+      "korean": "@0r그림자 왕궁@0r에는,",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -26578,7 +26578,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街の中では、もっとも危険の少ない",
       "source_en": "It's one of the less dangerous",
-      "korean": "검의 거리에서 가장 덜 위험한",
+      "korean": "검의 도시에서 가장 덜 위험한",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -26603,7 +26603,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街の中では、もっとも危険の少ない",
       "source_en": "It's one of the less dangerous",
-      "korean": "검의 거리에서 가장 덜 위험한",
+      "korean": "검의 도시에서 가장 덜 위험한",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -27410,7 +27410,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街全体から集めていて……",
       "source_en": "info on Lineage Types.",
-      "korean": "검의 거리 전역에서 모아서……",
+      "korean": "검의 도시 전역에서 모아서……",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -30919,7 +30919,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r血統種手配帳 @0rに手配書が追加された。",
       "source_en": "Wanted Lineages updated.",
-      "korean": "@0r혈통종 수배 목록@0r가 갱신됐다.",
+      "korean": "@0r혈통종 수배 목록@0r이 갱신됐다.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -31004,7 +31004,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r血統種手配帳 @0rに手配書が追加された。",
       "source_en": "Wanted Lineages updated.",
-      "korean": "@0r혈통종 수배 목록@0r가 갱신됐다.",
+      "korean": "@0r혈통종 수배 목록@0r이 갱신됐다.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -31054,7 +31054,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r血統種手配帳 @0rに手配書が追加された。",
       "source_en": "Wanted Lineages updated.",
-      "korean": "@0r혈통종 수배 목록@0r가 갱신됐다.",
+      "korean": "@0r혈통종 수배 목록@0r이 갱신됐다.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -31082,7 +31082,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r血統種手配帳 @0rに手配書が追加された。",
       "source_en": "Wanted Lineages updated.",
-      "korean": "@0r혈통종 수배 목록@0r가 갱신됐다.",
+      "korean": "@0r혈통종 수배 목록@0r이 갱신됐다.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -31450,7 +31450,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r灼熱の廟 @0r、 @0r地下死街 @0rに出ているようだ。",
       "source_en": "over the labyrinths.",
-      "korean": "@0r작열의 묘@0r, @0r지하 사령가@0r에 나타났다.",
+      "korean": "@0r작열의 묘@0r, @0r유령 도시@0r에 나타났다.",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -33078,7 +33078,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "地図画面から @0r陰の王宮　下層放棄区Ⅰ @0rへ",
       "source_en": " @0rAbandoned Area 1, Shadow Palace @0r",
-      "korean": "지도에서 @0r그늘의 왕궁 하층 폐기구역 I@0r로",
+      "korean": "지도에서 @0r그림자 왕궁 하층 폐기구역 I@0r로",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -33128,7 +33128,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "地図画面から @0r地下死街　蜘蛛の巣 @0rへ",
       "source_en": " @0rSpider's Nest, Underground Ghost Town @0r",
-      "korean": "지도에서 @0r지하 사령가 거미굴@0r로",
+      "korean": "지도에서 @0r유령 도시 거미굴@0r로",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -33665,7 +33665,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "そこは剣の街での最後の戦いの地……",
       "source_en": "Where the final battle of Sword",
-      "korean": "검의 거리에서 치른 마지막 전투지……",
+      "korean": "검의 도시에서 치른 마지막 전투지……",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -34003,7 +34003,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "あの剣の街と寸分違わぬ世界……",
       "source_en": "the Sword City you guys were...",
-      "korean": "검의 거리와 똑같은 세계……",
+      "korean": "검의 도시와 똑같은 세계……",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -34270,7 +34270,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "この剣の街での戦いの後、",
       "source_en": "Did you ever think something like",
-      "korean": "검의 거리에서 싸운 뒤",
+      "korean": "검의 도시에서 싸운 뒤",
       "protected_tokens": [],
       "capacity_bytes": 27,
       "status": "precision_reviewed_static_verified"
@@ -34877,7 +34877,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r血統種手配帳 @0rに手配書が追加された。",
       "source_en": "Wanted Lineages updated.",
-      "korean": "@0r혈통종 수배 목록@0r가 갱신됐다.",
+      "korean": "@0r혈통종 수배 목록@0r이 갱신됐다.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -35880,7 +35880,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r灼熱の廟 @0r、 @0r地下死街 @0rに出ているようだ。",
       "source_en": "signs of new activity.",
-      "korean": "@0r작열의 묘@0r, @0r지하 사령가@0r에 나타났다.",
+      "korean": "@0r작열의 묘@0r, @0r유령 도시@0r에 나타났다.",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -35951,7 +35951,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "私は、この剣の街に消えた魂を",
       "source_en": "私は、この剣の街に消えた魂を",
-      "korean": "나는 검의 거리에서 사라진 영혼을",
+      "korean": "나는 검의 도시에서 사라진 영혼을",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -37218,7 +37218,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "この剣の街に、残るべき人なのです。",
       "source_en": "They *must* stay in Sword City.",
-      "korean": "이 검의 거리에 남아야 할 사람입니다.",
+      "korean": "이 검의 도시에 남아야 할 사람입니다.",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -37416,7 +37416,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "私は、この剣の街に消えた魂を",
       "source_en": "I cannot betray those souls that",
-      "korean": "나는 검의 거리에서 사라진 영혼을",
+      "korean": "나는 검의 도시에서 사라진 영혼을",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -39112,7 +39112,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "私は、この剣の街に消えた魂を",
       "source_en": "I cannot betray those souls that",
-      "korean": "나는 이 검의 거리에 사라진 영혼들을",
+      "korean": "나는 이 검의 도시에 사라진 영혼들을",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -42066,7 +42066,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r地下死街 @0rの @0r巣の底 @0rのさらに下……",
       "source_en": "Past the  @0rUnderground Ghost Town @0r.",
-      "korean": "@0r지하 사령가@0r의 @0r둥지 바닥@0r보다 더 아래……",
+      "korean": "@0r유령 도시@0r의 @0r둥지 바닥@0r보다 더 아래……",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -45172,7 +45172,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r地下死街への鍵 @0rを差し込むと、",
       "source_en": "The door opened powerfully when you",
-      "korean": "@0r지하 사령가 열쇠@0r를 꽂자,",
+      "korean": "@0r유령 도시 열쇠@0r를 꽂자,",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -48841,7 +48841,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "この剣の街ができる前から存在し、",
       "source_en": "It existed before Sword City and",
-      "korean": "검의 거리가 생기기 전부터 존재해",
+      "korean": "검의 도시가 생기기 전부터 존재해",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -51719,7 +51719,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "ここが @0r陰の王宮 @0r……",
       "source_en": "This is the  @0rShadow Palace @0r...",
-      "korean": "이곳이 @0r그늘의 왕궁@0r……",
+      "korean": "이곳이 @0r그림자 왕궁@0r……",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -55363,7 +55363,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "@y0たちは、陰の王宮へと引き返した。",
       "source_en": "@y0 returned.",
-      "korean": "@y0 일행은 그늘의 왕궁으로 돌아갔다.",
+      "korean": "@y0 일행은 그림자 왕궁으로 돌아갔다.",
       "protected_tokens": [
         "@y0"
       ],
@@ -55578,7 +55578,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "@y0たちは、陰の王宮へと引き返した。",
       "source_en": "@y0 returns.",
-      "korean": "@y0 일행은 그늘의 왕궁으로 돌아갔다.",
+      "korean": "@y0 일행은 그림자 왕궁으로 돌아갔다.",
       "protected_tokens": [
         "@y0"
       ],
@@ -56107,7 +56107,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街に来るために生まれた人間……",
       "source_en": "*The* Chosen One of Sword City...",
-      "korean": "검의 거리에 오기 위해 태어난 인간…",
+      "korean": "검의 도시에 오기 위해 태어난 인간…",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -56951,7 +56951,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "このル・ビィンの矢、かわしきれるか？",
       "source_en": "Can you dodge my arrows?",
-      "korean": "이 르빈의 화살을 전부 피할 수 있겠나?",
+      "korean": "이 루빈의 화살을 전부 피할 수 있겠나?",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -56973,7 +56973,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "ル・ビィンは消滅した。",
       "source_en": "Ru Bien vanishes.",
-      "korean": "르빈은 소멸했다.",
+      "korean": "루빈은 소멸했다.",
       "protected_tokens": [],
       "capacity_bytes": 23,
       "status": "precision_reviewed_static_verified"
@@ -60102,7 +60102,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "この @0r地下死街 @0rで明らかになるでしょう。",
       "source_en": "in the  @0rUnderground Ghost Town @0r.",
-      "korean": "이 @0r지하 사령가@0r에서 드러나겠지요.",
+      "korean": "이 @0r유령 도시@0r에서 드러나겠지요.",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -61827,7 +61827,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "だが、それでも純血晶のためには行かねばならん。",
       "source_en": "You have to get the Blood Crystal.",
-      "korean": "하지만 그래도 순혈정을 위해서는 가야겠지.",
+      "korean": "하지만 그래도 혈정을 위해서는 가야겠지.",
       "protected_tokens": [],
       "capacity_bytes": 47,
       "status": "precision_reviewed_static_verified"
@@ -62623,7 +62623,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r地下死街 @0r：【霊糸を渡る者】",
       "source_en": "【Crossing the Thread】",
-      "korean": " @0r지하 사령가 @0r:【영사를 건너는 자】",
+      "korean": " @0r유령 도시 @0r:【영사를 건너는 자】",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -69670,7 +69670,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街を美しく彩る蝶たちは……",
       "source_en": "The butterflies of Sword City...",
-      "korean": "검의 거리를 수놓는 나비들은……",
+      "korean": "검의 도시를 수놓는 나비들은……",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -73292,7 +73292,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "ようこそ、剣の街……エスカリオへ。",
       "source_en": "Welcome to Escario... Sword City.",
-      "korean": "검의 거리…… 에스카리오에 온 걸 환영해.",
+      "korean": "검의 도시…… 에스카리오에 온 걸 환영해.",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -75845,7 +75845,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "この先は陰の王宮へと続いている……",
       "source_en": "The path to the Shadow Palace...",
-      "korean": "이 앞은 그늘의 왕궁으로 이어진다……",
+      "korean": "이 앞은 그림자 왕궁으로 이어진다……",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -79624,7 +79624,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "疾風のごとく剣の街の空を駆け……",
       "source_en": "zooms through Sword City!",
-      "korean": "질풍처럼 검의 거리의 하늘을 달려…",
+      "korean": "질풍처럼 검의 도시의 하늘을 달려…",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -79763,7 +79763,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r灼熱の廟 @0r、 @0r地下死街 @0rに出現しました。",
       "source_en": "by the disturbance...",
-      "korean": "@0r작열의 묘@0r, @0r지하 사령가@0r에 나타났습니다.",
+      "korean": "@0r작열의 묘@0r, @0r유령 도시@0r에 나타났습니다.",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -80301,7 +80301,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "なにしろ @0r箱舟 @0rといえば、この剣の街でも",
       "source_en": "The  @0rArk @0r is the most mysterious",
-      "korean": "무엇보다 @0r방주@0r는 이 검의 거리에서도",
+      "korean": "무엇보다 @0r방주@0r는 이 검의 도시에서도",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -88350,7 +88350,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "リウの指の間をすり抜けて、剣の街の空へと",
       "source_en": "They slip through Riu's fingers and",
-      "korean": "리우의 손가락 사이를 빠져나와 검의 거리 하늘로",
+      "korean": "리우의 손가락 사이를 빠져나와 검의 도시 하늘로",
       "protected_tokens": [],
       "capacity_bytes": 47,
       "status": "precision_reviewed_static_verified"
@@ -92070,7 +92070,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "キョウの断末魔は、風に乗って剣の街の",
       "source_en": "Kyo's horrible scream carries",
-      "korean": "쿄의 단말마는 바람 타고 검의 거리",
+      "korean": "쿄의 단말마는 바람 타고 검의 도시",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -92493,7 +92493,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "たちまち神罰が下り、剣の街は……",
       "source_en": "The divine punishment will...",
-      "korean": "곧 신벌이 내려 검의 거리는……",
+      "korean": "곧 신벌이 내려 검의 도시는……",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -93986,7 +93986,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "どうやらマリリスは、リウが剣の街に来た",
       "source_en": "It seems like they've been friends",
-      "korean": "마릴리스는 리우가 검의 거리에 온",
+      "korean": "마릴리스는 리우가 검의 도시에 온",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -94197,7 +94197,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "純血晶を渡しに来る事もあるだろうし、",
       "source_en": "You might give her Blood Crystals,",
-      "korean": "순혈정을 건네러 올 일도 있을 테니,",
+      "korean": "혈정을 건네러 올 일도 있을 테니,",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -94219,7 +94219,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "純血晶を渡しに来る事もあるだろうし、",
       "source_en": "You might give her Blood Crystals,",
-      "korean": "순혈정을 건네러 올 일도 있을 테니,",
+      "korean": "혈정을 건네러 올 일도 있을 테니,",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -94296,7 +94296,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "この地には、純血晶を受け入れる「器」を",
       "source_en": "Here, there are 3  @0rVessels @0r",
-      "korean": "이 땅에는 순혈정을 받아들일 「그릇」을",
+      "korean": "이 땅에는 혈정을 받아들일 「그릇」을",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -94318,7 +94318,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "その誰に、純血晶を託すのか……",
       "source_en": "And who you gift those to...",
-      "korean": "그중 누구에게 순혈정을 맡길지……",
+      "korean": "그중 누구에게 혈정을 맡길지……",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -94351,7 +94351,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "純血晶は、強大な力を秘めた存在……",
       "source_en": "Great power lies within them.",
-      "korean": "순혈정은 강대한 힘을 품은 존재……",
+      "korean": "혈정은 강대한 힘을 품은 존재……",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -94549,7 +94549,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "最初の純血晶。",
       "source_en": "Mausoleum of Metal.",
-      "korean": "첫 순혈정.",
+      "korean": "첫 혈정.",
       "protected_tokens": [],
       "capacity_bytes": 15,
       "status": "precision_reviewed_static_verified"
@@ -94639,7 +94639,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "純血晶をマリリスに渡して。",
       "source_en": "the Blood Crystal you have.",
-      "korean": "순혈정을 마릴리스에게 건네세요.",
+      "korean": "혈정을 마릴리스에게 건네세요.",
       "protected_tokens": [],
       "capacity_bytes": 27,
       "status": "precision_reviewed_static_verified"
@@ -94663,7 +94663,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "これからも、剣の街の未来のため、",
       "source_en": "Please, keep hunting Lineage Types",
-      "korean": "앞으로도 검의 거리의 미래를 위해",
+      "korean": "앞으로도 검의 도시의 미래를 위해",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -95201,7 +95201,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "しかし、純血晶とは本来、手にした者が",
       "source_en": "Whoever earns the Blood Crystals",
-      "korean": "하지만 순혈정은 본래 손에 넣은 자가",
+      "korean": "하지만 혈정은 본래 손에 넣은 자가",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -95740,7 +95740,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "この剣の街で知らぬ者はおりませんから。",
       "source_en": "who doesn't know  @0rMedell Co. @0r.",
-      "korean": "이 검의 거리에서 모르는 사람은 없으니까.",
+      "korean": "이 검의 도시에서 모르는 사람은 없으니까.",
       "protected_tokens": [],
       "capacity_bytes": 43,
       "status": "precision_reviewed_static_verified"
@@ -95980,7 +95980,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "我が器に純血晶を託すことは、",
       "source_en": "Giving the Blood Crystals to me",
-      "korean": "제 그릇에 순혈정을 맡기는 것은",
+      "korean": "제 그릇에 혈정을 맡기는 것은",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -96230,7 +96230,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r陰の王宮 @0rから続く @0r湖の廟 @0r……",
       "source_en": "The  @0rMausoleum of the Sea @0r...",
-      "korean": " @0r그늘의 왕궁 @0r에서 이어지는 @0r호수의 묘 @0r……",
+      "korean": " @0r그림자 왕궁 @0r에서 이어지는 @0r호수의 묘 @0r……",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -96271,7 +96271,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r陰の王宮 @0rから湖へと続く道は、",
       "source_en": "The road to get to the lake from",
-      "korean": " @0r그늘의 왕궁 @0r에서 호수로 이어지는 길은,",
+      "korean": " @0r그림자 왕궁 @0r에서 호수로 이어지는 길은,",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -97191,7 +97191,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "純血晶を待たずに騒乱が起き……",
       "source_en": "without Blood Crystals, it's chaos.",
-      "korean": "순혈정을 기다릴 것도 없이 소란이 일어나고……",
+      "korean": "혈정을 기다릴 것도 없이 소란이 일어나고……",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -97202,7 +97202,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街は、血で血を洗う戦いの渦へと、",
       "source_en": "Sword City would have been dragged",
-      "korean": "검의 거리는 피로 피를 씻는 싸움의 소용돌이로,",
+      "korean": "검의 도시는 피로 피를 씻는 싸움의 소용돌이로,",
       "protected_tokens": [],
       "capacity_bytes": 47,
       "status": "precision_reviewed_static_verified"
@@ -97565,7 +97565,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "純血晶を託すのです。",
       "source_en": "and give away the Blood Crystals.",
-      "korean": "순혈정을 맡기십시오.",
+      "korean": "혈정을 맡기십시오.",
       "protected_tokens": [],
       "capacity_bytes": 23,
       "status": "precision_reviewed_static_verified"
@@ -97622,7 +97622,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "残された純血晶も、あと僅か……",
       "source_en": "Only a few Blood Crystals remain.",
-      "korean": "남은 순혈정도 이제 얼마 없습니다……",
+      "korean": "남은 혈정도 이제 얼마 없습니다……",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -105805,7 +105805,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "しかし、この剣の街で",
       "source_en": "But what could possibly shake",
-      "korean": "하지만 이 검의 거리에서",
+      "korean": "하지만 이 검의 도시에서",
       "protected_tokens": [],
       "capacity_bytes": 23,
       "status": "precision_reviewed_static_verified"
@@ -107366,7 +107366,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "でも、もちろんここは剣の街……",
       "source_en": "But this is Sword City. It isn't",
-      "korean": "하지만 물론 여기는 검의 거리……",
+      "korean": "하지만 물론 여기는 검의 도시……",
       "protected_tokens": [],
       "capacity_bytes": 31,
       "status": "precision_reviewed_static_verified"
@@ -108633,7 +108633,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "そんな理由から、こうして剣の街で",
       "source_en": "Because of that, we have a presence",
-      "korean": "그런 이유로 이렇게 검의 거리에서",
+      "korean": "그런 이유로 이렇게 검의 도시에서",
       "protected_tokens": [],
       "capacity_bytes": 35,
       "status": "precision_reviewed_static_verified"
@@ -108754,7 +108754,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "それがこの剣の街が私たちに課した、",
       "source_en": "This is the most common duty we",
-      "korean": "그것이 검의 거리가 우리에게 맡긴,",
+      "korean": "그것이 검의 도시가 우리에게 맡긴,",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -111999,7 +111999,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r陰の王宮 @0rと呼ばれる区画と……",
       "source_en": "Kingdom,  @0rShadow Palace @0r...",
-      "korean": " @0r그늘의 왕궁 @0r이라는 구역과……",
+      "korean": " @0r그림자 왕궁 @0r이라는 구역과……",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -112195,7 +112195,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街の安全に寄与するということ……",
       "source_en": "Sword City safe and secure.",
-      "korean": "검의 거리의 안전에 기여한다는 것…",
+      "korean": "검의 도시의 안전에 기여한다는 것…",
       "protected_tokens": [],
       "capacity_bytes": 39,
       "status": "precision_reviewed_static_verified"
@@ -112316,7 +112316,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "剣の街へとたどり着いた客人（まれびと）。",
       "source_en": "to Sword City as Strangers.",
-      "korean": "검의 거리에 도착한 이방의 손님.",
+      "korean": "검의 도시에 도착한 이방의 손님.",
       "protected_tokens": [],
       "capacity_bytes": 43,
       "status": "precision_reviewed_static_verified"
@@ -112947,7 +112947,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r陰の王宮 @0r：【甘えん坊将軍】　他３体　",
       "source_en": "【Wheedling General】and 3 others",
-      "korean": " @0r그늘의 왕궁 @0r: 【응석받이 장군】 외 3체",
+      "korean": " @0r그림자 왕궁 @0r: 【응석받이 장군】 외 3체",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -115014,7 +115014,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r地下死街への鍵 @0rと @0r異邦人の誇り @0rを手に入れた。",
       "source_en": "Got  @0rGhost Town Key @0r,  @0rStranger's Pride @0r.",
-      "korean": " @0r지하 사령가의 열쇠 @0r와 @0r이방인의 긍지 @0r를 얻었다.",
+      "korean": " @0r유령 도시의 열쇠 @0r와 @0r이방인의 긍지 @0r를 얻었다.",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -115091,7 +115091,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "そこは @0r地下死街 @0rと呼ばれる迷宮で、",
       "source_en": "It unlocks a labyrinth full of",
-      "korean": "그곳은 @0r지하 사령가 @0r라는 미궁이고,",
+      "korean": "그곳은 @0r유령 도시 @0r라는 미궁이고,",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -115308,7 +115308,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r地下死街 @0r：【冥界への案内人】　他３体",
       "source_en": "【Guide to Hades】and 3 others",
-      "korean": "@0r지하 사령가@0r:【명계 안내인】 외 3체",
+      "korean": "@0r유령 도시@0r:【명계 안내인】 외 3체",
       "protected_tokens": [
         "@0r",
         "@0r"
@@ -117056,7 +117056,7 @@
       "source_file": "event/Script.dat",
       "source_jp": "とはいえ、今の剣の街は平穏そのもの。",
       "source_en": "Anyway, Sword City is peaceful now.",
-      "korean": "그래도 지금 검의 거리는 평온 그 자체.",
+      "korean": "그래도 지금 검의 도시는 평온 그 자체.",
       "protected_tokens": [],
       "capacity_bytes": 47,
       "status": "precision_reviewed_static_verified"
@@ -117678,7 +117678,7 @@
       "source_file": "event/Script.dat",
       "source_jp": " @0r軽刃 @0r・ @0r重刃 @0rの心得がある。",
       "source_en": " @0rlight blades @0r and  @0rheavy blades @0r. ",
-      "korean": " @0r경인 @0r과 @0r중인 @0r 스킬을 익혔지.",
+      "korean": " @0r경검 @0r과 @0r중검 @0r 스킬을 익혔지.",
       "protected_tokens": [
         "@0r",
         "@0r",
@@ -120005,7 +120005,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "　　「地下死街」にてあの老人と出会った。\n　　「助言」をしに来た、という事だが……",
       "source_en": "You encountered the Elder you saw\nat the Underground Ghost Town. He\nsaid he's here to share an idea...",
-      "korean": "지하 사령가에서 그 노인을 만났다.\n조언을 하러 왔다고 하는데……",
+      "korean": "유령 도시에서 그 노인을 만났다.\n조언을 하러 왔다고 하는데……",
       "protected_tokens": [],
       "capacity_bytes": 81,
       "status": "precision_reviewed_static_verified"
@@ -120181,7 +120181,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "　　この剣の街にいる他の「器の者」。\n　　新たに現れた「選ばれし者」として、\n　　彼らに面会しておく必要がある。",
       "source_en": "As the Chosen One, you should\ngo meet with the other\nVessels in Sword City.",
-      "korean": "검의 거리에 있는 또 다른 그릇을 지닌자들.\n새로 나타난 선택받은 자로서\n그들을 만나 볼 필요가 있다.",
+      "korean": "검의 도시에 있는 또 다른 그릇을 지닌자들.\n새로 나타난 선택받은 자로서\n그들을 만나 볼 필요가 있다.",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -120225,7 +120225,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "　　「白の一党」の頭目から、\n　　「商品」を取り戻すよう依頼された。\n　　何か調べているらしいアンナは、\n　　この件に協力するよう言って来たが……",
       "source_en": "The boss of the White Party has\nrequested that you retrieve an\n$item.$ Anna, who is researching\nsomething, wanted to assist you...",
-      "korean": "백색 일당 두목에게\n$상품$을 되찾아 달라는 의뢰를 받았다.\n무언가 조사 중인 안나는\n이 일에 협력하라고 하는데……",
+      "korean": "백의 일당 두목에게\n$상품$을 되찾아 달라는 의뢰를 받았다.\n무언가 조사 중인 안나는\n이 일에 협력하라고 하는데……",
       "protected_tokens": [],
       "capacity_bytes": 143,
       "status": "precision_reviewed_static_verified"
@@ -120269,7 +120269,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "　　王宮騎士団のヘルガから、\n　　甲冑兵の評価試験への協力を要請された。\n　　会議が続いている間は他にやる事もない。\n　　準備をして「陰の王宮」へ向かおう。",
       "source_en": "Helga from the Chivalry wants\nyou to participate in the Armor\nKnights' evaluation. Since you're\nfree, go to the Shadow Palace.",
-      "korean": "왕궁 기사단의 헬가에게\n갑옷병 평가 시험의 협조를 요청받았다.\n회의가 계속되는 동안 다른 일도 없으니\n준비를 마치고 그늘의 왕궁으로 가자.",
+      "korean": "왕궁 기사단의 헬가에게\n갑옷병 평가 시험의 협조를 요청받았다.\n회의가 계속되는 동안 다른 일도 없으니\n준비를 마치고 그림자 왕궁으로 가자.",
       "protected_tokens": [],
       "capacity_bytes": 153,
       "status": "precision_reviewed_static_verified"
@@ -120610,7 +120610,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "マーフィン",
       "source_en": "Murphin",
-      "korean": "머핀",
+      "korean": "마핀",
       "protected_tokens": [],
       "capacity_bytes": 10,
       "status": "precision_reviewed_static_verified"
@@ -120973,7 +120973,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "【霊糸を渡る者】　　　　危険度★★★　　\n我が子の餌にと、人をさらう蜘蛛がいる。\n剣の街のどこかに巣があるはずだが、その場\n所を知る者はいない。",
       "source_en": "【Crossing the Thread】Danger:3★\nA spider takes a human for its\nchild. Its nest is somewhere in\nSword City, but nobody knows where.",
-      "korean": "【영혼의 실을 건너는 자】 위험도★★★\n새끼 먹이로 사람을 납치하는 거미가 있다.\n검의 거리 어딘가에 둥지가 있겠지만\n그곳을 아는 이는 없다.",
+      "korean": "【영혼의 실을 건너는 자】 위험도★★★\n새끼 먹이로 사람을 납치하는 거미가 있다.\n검의 도시 어딘가에 둥지가 있겠지만\n그곳을 아는 이는 없다.",
       "protected_tokens": [],
       "capacity_bytes": 141,
       "status": "precision_reviewed_static_verified"
@@ -121017,7 +121017,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "【堕ちた魔姫】　　　　　危険度★★★　　\n力を失い、元の姿に戻れなくなった魔女が、\n地下死街の奥の奥に逃げ込んだ。おそらく、\n背後で手引きした者がいるに違いない。",
       "source_en": "【Fallen Demon Princess】Danger:3★\nA powerless witch that can't return\nto its true form is hiding in the\nUnderground Ghost Town.",
-      "korean": "【타락한 마공주】 위험도★★★\n힘을 잃어 본모습으로 돌아갈 수 없게 된 마녀가\n지하 사령가 깊숙이 달아났다. 아마 뒤에서\n길을 터 준 자가 있을 것이다.",
+      "korean": "【타락한 마공주】 위험도★★★\n힘을 잃어 본모습으로 돌아갈 수 없게 된 마녀가\n유령 도시 깊숙이 달아났다. 아마 뒤에서\n길을 터 준 자가 있을 것이다.",
       "protected_tokens": [],
       "capacity_bytes": 159,
       "status": "precision_reviewed_static_verified"
@@ -121039,7 +121039,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "【徘徊する悪霊騎士】　　危険度★★★★★\nドワーフたちによると、地下死街には戦闘が\n長引くと現れる悪霊騎士がいるらしい。\n腕に自信がないのなら、逃げるのが得策だ。",
       "source_en": "【Evil Spirit Knights】Danger:5★\nAccording to the Dwarves, an evil\nspirit will appear if you take too\nlong in a battle.",
-      "korean": "【배회하는 악령 기사】 위험도★★★★★\n드워프 말로는 지하 사령가에서 싸움이 길면\n악령 기사가 나타난다고 한다.\n실력에 자신 없다면 달아나는 게 상책이다.",
+      "korean": "【배회하는 악령 기사】 위험도★★★★★\n드워프 말로는 유령 도시에서 싸움이 길면\n악령 기사가 나타난다고 한다.\n실력에 자신 없다면 달아나는 게 상책이다.",
       "protected_tokens": [],
       "capacity_bytes": 159,
       "status": "precision_reviewed_static_verified"
@@ -122143,7 +122143,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "ル・ビィン",
       "source_en": "Ru Bien",
-      "korean": "루 비엔",
+      "korean": "루빈",
       "protected_tokens": [],
       "capacity_bytes": 27,
       "status": "precision_reviewed_static_verified"
@@ -125899,7 +125899,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "ユルムンガンド",
       "source_en": "Jormungand",
-      "korean": "유르문간드",
+      "korean": "율문간드",
       "protected_tokens": [],
       "capacity_bytes": 27,
       "status": "precision_reviewed_static_verified"
@@ -128275,7 +128275,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "トリコロール",
       "source_en": "Tri-Color",
-      "korean": "트리콜로르",
+      "korean": "트리컬러",
       "protected_tokens": [],
       "capacity_bytes": 27,
       "status": "precision_reviewed_static_verified"
@@ -133936,7 +133936,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "陰の王宮",
       "source_en": "Shadow Palace",
-      "korean": "그늘왕궁",
+      "korean": "그림자궁",
       "protected_tokens": [],
       "capacity_bytes": 8,
       "status": "precision_reviewed_static_verified"
@@ -133947,7 +133947,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "陰の王宮",
       "source_en": "Shadow Palace",
-      "korean": "그늘왕궁",
+      "korean": "그림자궁",
       "protected_tokens": [],
       "capacity_bytes": 8,
       "status": "precision_reviewed_static_verified"
@@ -134211,7 +134211,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "新暦死街１Ｆ",
       "source_en": "New Ghost Town 1F",
-      "korean": "신력사령 1F",
+      "korean": "유령도시 1F",
       "protected_tokens": [],
       "capacity_bytes": 12,
       "status": "precision_reviewed_static_verified"
@@ -134222,7 +134222,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "地下死街",
       "source_en": "Ghost Town",
-      "korean": "지하사령",
+      "korean": "유령도시",
       "protected_tokens": [],
       "capacity_bytes": 8,
       "status": "precision_reviewed_static_verified"
@@ -134266,7 +134266,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "新暦死街２Ｆ",
       "source_en": "New Ghost Town 2F",
-      "korean": "신력사령 2F",
+      "korean": "유령도시 2F",
       "protected_tokens": [],
       "capacity_bytes": 12,
       "status": "precision_reviewed_static_verified"
@@ -134299,7 +134299,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "旧暦死街　東",
       "source_en": "Old Ghost Town E",
-      "korean": "구력사령 동",
+      "korean": "유령도시 동",
       "protected_tokens": [],
       "capacity_bytes": 12,
       "status": "precision_reviewed_static_verified"
@@ -134332,7 +134332,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "旧暦死街　西",
       "source_en": "Old Ghost Town W",
-      "korean": "구력사령 서",
+      "korean": "유령도시 서",
       "protected_tokens": [],
       "capacity_bytes": 12,
       "status": "precision_reviewed_static_verified"
@@ -134376,7 +134376,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "地下死街",
       "source_en": "Ghost Town",
-      "korean": "지하사령",
+      "korean": "유령도시",
       "protected_tokens": [],
       "capacity_bytes": 8,
       "status": "precision_reviewed_static_verified"
@@ -135817,7 +135817,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "魔王死街",
       "source_en": "Overlord's Town",
-      "korean": "마왕사가",
+      "korean": "마왕도시",
       "protected_tokens": [],
       "capacity_bytes": 8,
       "status": "precision_reviewed_static_verified"
@@ -135993,7 +135993,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られたダガー\n特性：二刀流スキルなしでも二刀流可能",
       "source_en": "The first dagger made in Sword City.  \nCan dual wield without the skill.",
-      "korean": "검의 거리에서 처음 만들어진 대거\n특성: 스킬 없이 이도류 가능",
+      "korean": "검의 도시에서 처음 만들어진 대거\n특성: 스킬 없이 이도류 가능",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -136424,7 +136424,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られたロングソード\n　",
       "source_en": "The first sword made in Sword City.",
-      "korean": "검의 거리에서 처음 만들어진 롱소드\n",
+      "korean": "검의 도시에서 처음 만들어진 롱소드\n",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -136756,7 +136756,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街の運命を託されし者に与えられる剣\n",
       "source_en": "A sword gifted to they who hold  \nSword City's fate in their hands.",
-      "korean": "검의 거리의 운명을 맡은 자에게 주어지는 검\n",
+      "korean": "검의 도시의 운명을 맡은 자에게 주어지는 검\n",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -137125,7 +137125,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られたバトルアックス\n特性：Ｄａｍａｇｅ Ｒｅｄｕｃｅ%s％",
       "source_en": "The first axe made in Sword City.  \nDamage Reduce %s^.",
-      "korean": "검의 거리에서 처음 만들어진 전투 도끼\n특성: 피해 감소%s%",
+      "korean": "검의 도시에서 처음 만들어진 전투 도끼\n특성: 피해 감소%s%",
       "protected_tokens": [
         "%s"
       ],
@@ -139116,7 +139116,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られたスピア\n　",
       "source_en": "The first spear made in Sword City.",
-      "korean": "검의 거리에서 처음 만들어진 스피어\n",
+      "korean": "검의 도시에서 처음 만들어진 스피어\n",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -142145,7 +142145,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られた弓\n　",
       "source_en": "The first bow made in Sword City.",
-      "korean": "검의 거리에서 처음 만들어진 활\n",
+      "korean": "검의 도시에서 처음 만들어진 활\n",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -142772,7 +142772,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られたバックラー\n",
       "source_en": "The first buckler made in Sword City.",
-      "korean": "검의 거리에서 처음 만들어진 버클러\n",
+      "korean": "검의 도시에서 처음 만들어진 버클러\n",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -143898,7 +143898,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られたプレートメイル\n",
       "source_en": "The first plate mail made in Sword City.",
-      "korean": "검의 거리에서 처음 만든 플레이트 메일\n",
+      "korean": "검의 도시에서 처음 만든 플레이트 메일\n",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -145647,7 +145647,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "剣の街で最初に作られたプレートヘルム\n",
       "source_en": "The first plate helm made in Sword City.",
-      "korean": "검의 거리에서 처음 만든 플레이트 헬름\n",
+      "korean": "검의 도시에서 처음 만든 플레이트 헬름\n",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -152742,7 +152742,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "黄金のソシアルナイトの怒りを買う精霊石\n陰の王宮内で持ち歩く者に禍が降りかかる",
       "source_en": "A spirit stone of interest to the  \nGolden Social Knight. Brings discord.",
-      "korean": "황금 소시알 나이트의 분노를 사는 정령석\n그늘의 왕궁 안에서 지니면 재앙이 닥친다",
+      "korean": "황금 소시알 나이트의 분노를 사는 정령석\n그림자 왕궁 안에서 지니면 재앙이 닥친다",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -152918,7 +152918,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "地下死街への鍵",
       "source_en": "Ghost Town Key",
-      "korean": "지하 사령가의 열쇠",
+      "korean": "유령 도시의 열쇠",
       "protected_tokens": [],
       "capacity_bytes": 26,
       "status": "precision_reviewed_static_verified"
@@ -152940,7 +152940,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "暗い廃道の奥にある特殊な扉を開ける鍵\nその先にある地下死街へと行けるようになる",
       "source_en": "Key to the underground Ghost Town.",
-      "korean": "피로 물든 문양이 새겨진 열쇠\n지하 사령가 깊은 곳의 문을 열 수 있다",
+      "korean": "피로 물든 문양이 새겨진 열쇠\n유령 도시 깊은 곳의 문을 열 수 있다",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -152973,7 +152973,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "水龍の加護で水中で行動できるようになる符\n陰の王宮から湖の廟へと入れるようになる",
       "source_en": "A talisman that lets you move  \nunderwater. Able to access M.o.t.Sea.",
-      "korean": "수룡의 가호로 물속에서 행동할 수 있게 되는 부적\n그늘의 왕궁에서 호수의 묘로 들어갈 수 있다",
+      "korean": "수룡의 가호로 물속에서 행동할 수 있게 되는 부적\n그림자 왕궁에서 호수의 묘로 들어갈 수 있다",
       "protected_tokens": [],
       "capacity_bytes": 110,
       "status": "precision_reviewed_static_verified"
@@ -158412,7 +158412,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "血統種から純血晶を奪える才能\n死亡しても生命点が減少しない",
       "source_en": "Take Blood Crystals from Lineage \nTypes. Life Points will not decrease.",
-      "korean": "혈통종에게서 순혈정을 빼앗는 재능\n사망해도 생명점이 감소하지 않는다",
+      "korean": "혈통종에게서 혈정을 빼앗는 재능\n사망해도 생명점이 감소하지 않는다",
       "protected_tokens": [],
       "capacity_bytes": 131,
       "status": "precision_reviewed_static_verified"
@@ -158533,7 +158533,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "軽刃の心得",
       "source_en": "Light Blade Soul",
-      "korean": "경인의 소양",
+      "korean": "경검의 소양",
       "protected_tokens": [],
       "capacity_bytes": 26,
       "status": "precision_reviewed_static_verified"
@@ -158544,7 +158544,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "「軽刃」に属する武具を装備できる",
       "source_en": "Equip Light Blades.",
-      "korean": "경인 계열 장비를 착용할 수 있다",
+      "korean": "경검 계열 장비를 착용할 수 있다",
       "protected_tokens": [],
       "capacity_bytes": 131,
       "status": "precision_reviewed_static_verified"
@@ -158555,7 +158555,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "重刃の心得",
       "source_en": "Heavy Blade Soul",
-      "korean": "중인의 소양",
+      "korean": "중검의 소양",
       "protected_tokens": [],
       "capacity_bytes": 26,
       "status": "precision_reviewed_static_verified"
@@ -158566,7 +158566,7 @@
       "source_file": "table/tablePack.dat",
       "source_jp": "「重刃」に属する武具を装備できる",
       "source_en": "Equip Heavy Blades.",
-      "korean": "중인 계열 장비를 착용할 수 있다",
+      "korean": "중검 계열 장비를 착용할 수 있다",
       "protected_tokens": [],
       "capacity_bytes": 131,
       "status": "precision_reviewed_static_verified"
@@ -169374,7 +169374,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "軽刃",
       "source_en": "",
-      "korean": "경인",
+      "korean": "경검",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -169429,7 +169429,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "重刃",
       "source_en": "",
-      "korean": "중인",
+      "korean": "중검",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -171910,7 +171910,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】人族　【不確定名】謎の人影　　　【属性】無　【出現】廃者の谷　　\n　流れ流れて剣の街へとたどり着いた異国の剣士。カタナと呼ばれる独特な　　\n　剣を好む。かつては魔術も使えたそうだが、今はその伝統も途絶えている。　\n【宝　箱】刀・鎧・兜・服　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Human [Type]Mysterious Shadow [Ele]None\n[Loc]Valley of the Ruined [Tre]Katana/Armor/Helmet/Clothing\nForeign swordsmen that wandered into Sword City. Favors the\nkatana. Used to use magic, but now rely on swordsmanship.",
-      "korean": "【종족】인족　【미확정명】수수께끼의 인영　【속성】무　【출현】폐자의 계곡\n정처 없이 떠돌다 검의 거리에 도착한 이국의 검사. 카타나라는 독특한\n검을 선호한다. 과거에는 마술도 썼다지만 이제 그 전통은 끊겼다.\n【보물 상자】도·갑옷·투구·의복",
+      "korean": "【종족】인족　【미확정명】수수께끼의 인영　【속성】무　【출현】폐자의 계곡\n정처 없이 떠돌다 검의 도시에 도착한 이국의 검사. 카타나라는 독특한\n검을 선호한다. 과거에는 마술도 썼다지만 이제 그 전통은 끊겼다.\n【보물 상자】도·갑옷·투구·의복",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -171987,7 +171987,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】人族　【不確定名】謎の人影　　　【属性】無　【出現】廃者の谷　　\n　魔術に通じた者。その能力は剣の街でも重宝されており、様々な場所で　　　\n　活躍している。もちろん、「いい意味で」とは限らないが。　　　　　　　　\n【宝　箱】杖・服・帽子・装飾　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Human [Type]Mysterious Shadow [Ele]None\n[Loc]Valley of the Ruined [Tre]Wand/Clothing/Hat/Accessory\nSpecializes in magic. Highly acclaimed in Sword City, but not\nnecessarily for good deeds...",
-      "korean": "【종족】인족　【미확정명】수수께끼의 인영　【속성】무　【출현】폐자의 계곡\n마술에 정통한 자. 그 능력은 검의 거리에서도 귀중하게 여겨져 여러 곳에서\n활약한다. 물론 언제나 「좋은 의미」인 것은 아니지만.\n【보물 상자】지팡이·의복·모자·장신구",
+      "korean": "【종족】인족　【미확정명】수수께끼의 인영　【속성】무　【출현】폐자의 계곡\n마술에 정통한 자. 그 능력은 검의 도시에서도 귀중하게 여겨져 여러 곳에서\n활약한다. 물론 언제나 「좋은 의미」인 것은 아니지만.\n【보물 상자】지팡이·의복·모자·장신구",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -172475,7 +172475,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】生物　【不確定名】－－－－－－　【属性】無　【出現】陰の王宮　　\n　美しい銀色の姿をしたスカベンジャーの特異体。水面低くを飛び回り、魚や　\n　魔物を捕食する。無論、そこに人間が居れば容赦なく掻っ攫っていく。　　　\n【戦利品】装飾・兜　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Creature [Type]--- [Ele]None\n[Loc]Shadow Palace [Loot]Accessory/Helmet\nA Scavenger with a beautiful, silver body. It swims around in\nthe depths of the sea and will attack without provocation.",
-      "korean": "【종족】생물　【미확정명】−−−−−−　【속성】무　【출현】그늘의 왕궁\n아름다운 은빛 청소 벌레의 특이체. 수면 가까이 날며 물고기와 마물을\n포식한다. 물론 인간이 있으면 가차 없이 잡아간다.\n【전리품】장신구·투구",
+      "korean": "【종족】생물　【미확정명】−−−−−−　【속성】무　【출현】그림자 왕궁\n아름다운 은빛 청소 벌레의 특이체. 수면 가까이 날며 물고기와 마물을\n포식한다. 물론 인간이 있으면 가차 없이 잡아간다.\n【전리품】장신구·투구",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -172821,7 +172821,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】生物　【不確定名】謎の生物　　　【属性】無　【出現】地下死街　　\n　迷宮を徘徊する野犬。獲物のにおいを嗅ぎ取ると、恐るべき貪欲さで追い、　\n　噛み殺そうとしてくる。また、遠吠えをして仲間を呼ぶこともある。　　　　\n【戦利品】見事な牙　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Creature [Type]Creature [Ele]None\n[Loc]Underground Ghost Town [Loot]Excellent Fang\nStray dog that wanders in the labyrinth. Once it smells prey,\nit will chase it down. Calls its pack to help hunt.",
-      "korean": "【종족】생물　【미확정명】수수께끼의 생물　【속성】무　【출현】지하 사령가\n미궁을 배회하는 들개. 먹이 냄새를 맡으면 무서운 탐욕으로 추격해\n물어 죽이려 한다. 멀리 짖어 동료를 부르기도 한다.\n【전리품】훌륭한 송곳니",
+      "korean": "【종족】생물　【미확정명】수수께끼의 생물　【속성】무　【출현】유령 도시\n미궁을 배회하는 들개. 먹이 냄새를 맡으면 무서운 탐욕으로 추격해\n물어 죽이려 한다. 멀리 짖어 동료를 부르기도 한다.\n【전리품】훌륭한 송곳니",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173091,7 +173091,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】生物　【不確定名】－－－－－－　【属性】水　【出現】陰の王宮　　\n　純血晶の力で異常な魔力を得たバジリスク。凄まじい速さを誇り、たとえ姿を\n　目に捉えても常にブレて見える。身体は小さいがまさに意外な強敵といえる。\n【戦利品】投擲　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Creature [Type]--- [Ele]Water\n[Loc]Shadow Palace [Loot]Throwing\nA Basilisk that gained enormous power from the Blood Crystal.\nIt moves so quickly, it only appears as a blur.",
-      "korean": "【종족】생물　【미확정명】−−−−−−　【속성】물　【출현】그늘의 왕궁\n혈정의 힘으로 비정상적인 마력을 얻은 바실리스크. 엄청난 속도 때문에\n눈으로 포착해도 늘 흔들려 보인다. 몸은 작지만 뜻밖의 강적이다.\n【전리품】투척",
+      "korean": "【종족】생물　【미확정명】−−−−−−　【속성】물　【출현】그림자 왕궁\n혈정의 힘으로 비정상적인 마력을 얻은 바실리스크. 엄청난 속도 때문에\n눈으로 포착해도 늘 흔들려 보인다. 몸은 작지만 뜻밖의 강적이다.\n【전리품】투척",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173201,7 +173201,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】飛行する生物　【属性】無　【出現】地下死街　　\n　ヴァンパイアの眷属として力を与えられたバーバット。戦闘力は低いものの、\n　仲間を呼び、集団で襲いかかるため、見た目で判断すると痛い目を見る。　　\n【宝　箱】投擲・弓・帽子・下着・装飾　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]Flying Creature [Ele]None\n[Loc]Underground Ghost Town [Tre]Throwing/Bow/Hat/Underwear/Accessory\nA Barbat that gained power from a Vampire. Individually weak,\nbut calls upon its allies for help in battle.",
-      "korean": "【종족】불사　【미확정명】비행하는 생물　【속성】무　【출현】지하 사령가\n뱀파이어의 권속으로 힘을 받은 바바트. 전투력은 낮지만 동료를 불러\n무리 지어 덮치므로 겉모습만 보고 얕보면 큰코다친다.\n【보물 상자】투척·활·모자·속옷·장신구",
+      "korean": "【종족】불사　【미확정명】비행하는 생물　【속성】무　【출현】유령 도시\n뱀파이어의 권속으로 힘을 받은 바바트. 전투력은 낮지만 동료를 불러\n무리 지어 덮치므로 겉모습만 보고 얕보면 큰코다친다.\n【보물 상자】투척·활·모자·속옷·장신구",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173223,7 +173223,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】－－－－－－　【属性】無　【出現】地下死街　　\n　かつては「モラミッタ」と名乗っていた魔女だが、力を取り戻せず使い魔の　\n　姿を借りている。残った力でデスドラゴンを召喚し、「主」の復活を待つ。　\n【戦利品】投擲・装飾　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]--- [Ele]None\n[Loc]Underground Ghost Town [Loot]Throwing/Accessory\nA witch formerly known as Moramitta. Summoned the Death Dragon\nwith its power and waits for the return of its %qMaster.%q",
-      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】지하 사령가\n한때 「모라미타」라 자칭하던 마녀. 힘을 되찾지 못해 사역마의\n모습을 빌리고 있다. 남은 힘으로 데스 드래곤을 소환하고 「주인」의 부활을 기다린다.\n【전리품】투척·장신구",
+      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】유령 도시\n한때 「모라미타」라 자칭하던 마녀. 힘을 되찾지 못해 사역마의\n모습을 빌리고 있다. 남은 힘으로 데스 드래곤을 소환하고 「주인」의 부활을 기다린다.\n【전리품】투척·장신구",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173291,7 +173291,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】大きな人影　　【属性】土　【出現】地下死街　　\n　闇の兵士たちを統率する幹部。実力もさることながら存在感も圧倒的である。\n　振りかざす死の大鎌は生者の命を刈り取り、死の世界へと誘う。　　　　　　\n【宝　箱】槍・服・刀・杖　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]Big Shadow [Ele]Earth\n[Loc]Underground Ghost Town [Tre]Spear/Clothing/Katana/Wand\nOfficer that commands soldiers of darkness. Very powerful. The \nscythe it swings can send enemies straight to hell.",
-      "korean": "【종족】불사　【미확정명】큰 인영　【속성】땅　【출현】지하 사령가\n어둠의 병사들을 이끄는 간부. 실력과 존재감 모두 압도적이다.\n죽음의 대낫은 산 자의 목숨을 거두어 죽음의 세계로 이끈다.\n【보물 상자】창·의복·도·지팡이",
+      "korean": "【종족】불사　【미확정명】큰 인영　【속성】땅　【출현】유령 도시\n어둠의 병사들을 이끄는 간부. 실력과 존재감 모두 압도적이다.\n죽음의 대낫은 산 자의 목숨을 거두어 죽음의 세계로 이끈다.\n【보물 상자】창·의복·도·지팡이",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173337,7 +173337,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】謎の人影　　　【属性】土　【出現】地下死街　　\n　死した騎士たちが、闇に堕ちて兵士となった姿。物理攻撃が効き難いため、　\n　不死者に有効な武器で戦う必要がある。死体は乾いており、火でよく燃える。\n【戦利品】純白の骨・金品　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]Mysterious Shadow [Ele]Earth\n[Loc]Underground Ghost Town [Loot]Beautiful Bone/Trade\nWhen knights fall into darkness, they become this form.\nPhysical attacks don't work, but fire is effective.",
-      "korean": "【종족】불사　【미확정명】수수께끼의 인영　【속성】땅　【출현】지하 사령가\n죽은 기사들이 어둠에 빠져 병사가 된 모습. 물리 공격이 효과적이지 않기 때문에\n불사자에게 유효한 무기로 싸울 필요가 있다. 메마른 시체라 불에 잘 탄다.\n【전리품】순백의 뼈·금품",
+      "korean": "【종족】불사　【미확정명】수수께끼의 인영　【속성】땅　【출현】유령 도시\n죽은 기사들이 어둠에 빠져 병사가 된 모습. 물리 공격이 효과적이지 않기 때문에\n불사자에게 유효한 무기로 싸울 필요가 있다. 메마른 시체라 불에 잘 탄다.\n【전리품】순백의 뼈·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173359,7 +173359,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】謎の人影　　　【属性】土　【出現】地下死街　　\n　闇の兵士たちの隊長。部下を呼びつけておいて、自分はさっさと逃げてしまう\n　お調子者。頭の斧は不死者の間で流行りのオシャレ。死体のため火には弱い。\n【戦利品】純白の美骨・道具・金品　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]Mysterious Shadow [Ele]Earth\n[Loc]Underground Ghost Town [Loot]Beautiful Bone/Goods/Trade\nCaptain and commander of the soldiers of darkness. The axe on\nits head is the trend among the immortals. Weak to fire.",
-      "korean": "【종족】불사　【미확정명】수수께끼의 인영　【속성】땅　【출현】지하 사령가\n어둠의 병사들의 대장. 부하를 불러 놓고 자신은 얼른 도망치는 경박한 자.\n머리의 도끼는 불사자 사이에서 유행하는 멋. 시체라 불에 약하다.\n【전리품】순백의 아름다운 뼈·도구·금품",
+      "korean": "【종족】불사　【미확정명】수수께끼의 인영　【속성】땅　【출현】유령 도시\n어둠의 병사들의 대장. 부하를 불러 놓고 자신은 얼른 도망치는 경박한 자.\n머리의 도끼는 불사자 사이에서 유행하는 멋. 시체라 불에 약하다.\n【전리품】순백의 아름다운 뼈·도구·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173561,7 +173561,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】飛行する人影　【属性】無　【出現】地下死街　　\n　生前に魔力を扱えた者が霊となった姿。様々な術を使いこなし、死の国へと　\n　生者を引きずり込もうとする。他の不死者たち同様、聖なる力には抗えない。\n【宝　箱】杖・服・帽子・拳　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]Flying Shadow [Ele]None\n[Loc]Underground Ghost Town [Tre]Wand/Clothing/Hat/Fist\nA spirit of a former magic user. Dragged to the other side\nwhile it was still alive. Uses magic and is weak to holy power.",
-      "korean": "【종족】불사　【미확정명】비행하는 인영　【속성】무　【출현】지하 사령가\n생전에 마력을 다룰 수 있는 자가 영이 된 모습. 다양한 마법을 다루며 죽음의 나라로\n생자를 끌어들이려고 한다. 다른 불사자들처럼 거룩한 힘에는 저항할 수 없다.\n【보물 상자】지팡이·의복·모자·권갑",
+      "korean": "【종족】불사　【미확정명】비행하는 인영　【속성】무　【출현】유령 도시\n생전에 마력을 다룰 수 있는 자가 영이 된 모습. 다양한 마법을 다루며 죽음의 나라로\n생자를 끌어들이려고 한다. 다른 불사자들처럼 거룩한 힘에는 저항할 수 없다.\n【보물 상자】지팡이·의복·모자·권갑",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173585,7 +173585,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】－－－－－－　【属性】無　【出現】地下死街　　\n　冥府への案内人とされる霊の集合。強力な魔力を持ち、オーマの波動までも　\n　使いこなす。だがその声に従っている限り、襲われる心配はない。　　　　　\n【戦利品】杖・服・帽子・拳　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]--- [Ele]None\n[Loc]Underground Ghost Town [Loot]Wand/Clothing/Hat/Fist\nA group of spirits that were led to Hades. It can use powerful\nmagic and Ohma's Impact. Just listen and be respectful...",
-      "korean": "【종족】불사　【미확정명】−−−−−−　【속성】무　【출현】지하 사령가\n명부의 안내자라 여겨지는 영혼의 집합체. 강력한 마력으로 오마의 파동까지\n다룬다. 다만 그 목소리에 따르는 한 습격당할 걱정은 없다.\n【전리품】지팡이·의복·모자·권갑",
+      "korean": "【종족】불사　【미확정명】−−−−−−　【속성】무　【출현】유령 도시\n명부의 안내자라 여겨지는 영혼의 집합체. 강력한 마력으로 오마의 파동까지\n다룬다. 다만 그 목소리에 따르는 한 습격당할 걱정은 없다.\n【전리품】지팡이·의복·모자·권갑",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173629,7 +173629,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】飛行する人影　【属性】無　【出現】地下死街　　\n　闇に堕ちた者が霊となった姿。闇の力を信じ、いつかは肉体が復活すると　　\n　思っている。不死者なので物理攻撃はほとんど利かないが、聖なる力に弱い。\n【戦利品】珍しい爪・金品　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]Flying Shadow [Ele]None\n[Loc]Underground Ghost Town [Loot]Rare Claw/Trade\nA spirit form of those who fell to the dark side. It believes\nin the resurrection of the darkness. Weak to holy power.",
-      "korean": "【종족】불사　【미확정명】비행하는 인영　【속성】무　【출현】지하 사령가\n어둠에 타락한 자가 영이 된 모습. 언젠가 육체가 부활하리라 믿는다.\n불사자라 물리 공격이 거의 통하지 않지만 성스러운 힘에는 약하다.\n【전리품】희귀한 발톱·금품",
+      "korean": "【종족】불사　【미확정명】비행하는 인영　【속성】무　【출현】유령 도시\n어둠에 타락한 자가 영이 된 모습. 언젠가 육체가 부활하리라 믿는다.\n불사자라 물리 공격이 거의 통하지 않지만 성스러운 힘에는 약하다.\n【전리품】희귀한 발톱·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173697,7 +173697,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】－－－－－－　【属性】無　【出現】地下死街　　\n　禍々しい姿をした不死の異形。かつては上級魔族だったが、狂気に飲まれ、　\n　より低級な不死者へ「堕落」した。機械的に生命を絶とうとする性質を持つ。\n【戦利品】剣・刀　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]--- [Ele]None\n[Loc]Underground Ghost Town [Loot]Sword/Katana\nA chaotic, immortal variant. It used to be a high-class\nmonster before it was demoted. It has mechanical features.",
-      "korean": "【종족】불사　【미확정명】−−−−−−　【속성】무　【출현】지하 사령가\n불길한 모습을 한 불사의 이형. 한때는 상급 마족이었으나 광기에 삼켜져\n더 낮은 불사자로 「타락」했다. 기계적으로 생명을 끊으려 드는 성질이 있다.\n【전리품】검·도",
+      "korean": "【종족】불사　【미확정명】−−−−−−　【속성】무　【출현】유령 도시\n불길한 모습을 한 불사의 이형. 한때는 상급 마족이었으나 광기에 삼켜져\n더 낮은 불사자로 「타락」했다. 기계적으로 생명을 끊으려 드는 성질이 있다.\n【전리품】검·도",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173765,7 +173765,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】大きな人影　　【属性】無　【出現】地下死街　　\n　４本の腕を持つスケルトンに、ムカデのような足がついた不死の異形。迷宮を\n　徘徊し、生者を見つけると、死を弄ぶために襲い掛かってくる。　　　　　　\n【宝　箱】剣・斧・杖・拳・弓・投擲　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]Big Shadow [Ele]None\n[Loc]Underground Ghost Town [Tre]Sword/Axe/Wand/Fist/Bow/Throwing\nAn immortal variant that is a skeleton with four arms and legs\nlike a centipede. It lurks around labyrinths and brings death.",
-      "korean": "【종족】불사　【미확정명】큰 인영　【속성】무　【출현】지하 사령가\n네 개의 팔을 지닌 스켈레톤에 지네 같은 다리가 달린 불사의 이형.\n미궁을 배회하며 산 자를 발견하면 죽음을 희롱하려 덮쳐 온다.\n【보물 상자】검·도끼·지팡이·권갑·활·투척",
+      "korean": "【종족】불사　【미확정명】큰 인영　【속성】무　【출현】유령 도시\n네 개의 팔을 지닌 스켈레톤에 지네 같은 다리가 달린 불사의 이형.\n미궁을 배회하며 산 자를 발견하면 죽음을 희롱하려 덮쳐 온다.\n【보물 상자】검·도끼·지팡이·권갑·활·투척",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173831,7 +173831,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】謎の物体　　　【属性】無　【出現】陰の王宮　　\n　精霊の力が宿る粘液状の魔法生物。通常の物理攻撃は効果が薄いため、　　　\n　攻撃魔法か、精霊に効力のある武器のない者は、あまり関わらない方が良い。\n【戦利品】道具・金品　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]Mysterious Object [Ele]None\n[Loc]Shadow Palace [Loot]Goods/Trade\nA magical slime that has the power of a spirit. Normal attacks\naren't as effective, so try using magic.",
-      "korean": "【종족】정령　【미확정명】수수께끼의 물체　【속성】무　【출현】그늘의 왕궁\n정령의 힘이 머무는 점액상의 마법 생물. 통상의 일반 물리 공격은 효과가 미미하므로,\n공격 마법이나 정령에 효력이 있는 무기가 없는 자는 상대하지 않는 편이 좋다.\n【전리품】도구·금품",
+      "korean": "【종족】정령　【미확정명】수수께끼의 물체　【속성】무　【출현】그림자 왕궁\n정령의 힘이 머무는 점액상의 마법 생물. 통상의 일반 물리 공격은 효과가 미미하므로,\n공격 마법이나 정령에 효력이 있는 무기가 없는 자는 상대하지 않는 편이 좋다.\n【전리품】도구·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173853,7 +173853,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】謎の物体　　　【属性】無　【出現】陰の王宮　　\n　その粘液に毒性を帯びたスライム。仲間を呼んで数が増えると非常に厄介な　\n　相手となる。彼らがコロニーを作り始めたら、戦闘を回避する方が無難。　　\n【戦利品】道具・金品　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]Mysterious Object [Ele]None\n[Loc]Shadow Palace [Loot]Goods/Trade\nA slime with poison. It calls upon its allies in combat. If\nyou spot a colony of them, run.",
-      "korean": "【종족】정령　【미확정명】수수께끼의 물체　【속성】무　【출현】그늘의 왕궁\n점액에 독성을 띤 슬라임. 동료를 불러 수가 늘어나면 매우 성가신\n상대가 된다. 이들이 군락을 만들기 시작하면 전투를 피하는 편이 낫다.\n【전리품】도구·금품",
+      "korean": "【종족】정령　【미확정명】수수께끼의 물체　【속성】무　【출현】그림자 왕궁\n점액에 독성을 띤 슬라임. 동료를 불러 수가 늘어나면 매우 성가신\n상대가 된다. 이들이 군락을 만들기 시작하면 전투를 피하는 편이 낫다.\n【전리품】도구·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173974,7 +173974,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】不死　【不確定名】－－－－－－　【属性】無　【出現】地下死街　　\n　「ラミッタ」によって冥界より召喚された屍の竜。屍と言っても要は不死に　\n　なったという事であるから、生きているドラゴンよりたちが悪い。　　　　　\n【戦利品】剣・刀　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Immortal [Type]--- [Ele]None\n[Loc]Underground Ghost Town [Loot]Sword/Katana\nA corpse dragon that was summoned from Hades by Lamitta. It is\nan immortal and more vicious than regular dragons.",
-      "korean": "【종족】불사　【미확정명】−−−−−−　【속성】무　【출현】지하 사령가\n「라미타」가 명계에서 소환한 시체의 용. 시체라 해도 결국 불사가\n되었다는 뜻이므로 살아 있는 드래곤보다 오히려 더 악질이다.\n【전리품】검·도",
+      "korean": "【종족】불사　【미확정명】−−−−−−　【속성】무　【출현】유령 도시\n「라미타」가 명계에서 소환한 시체의 용. 시체라 해도 결국 불사가\n되었다는 뜻이므로 살아 있는 드래곤보다 오히려 더 악질이다.\n【전리품】검·도",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -173996,7 +173996,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】飛行する物体　【属性】土　【出現】陰の王宮　　\n　精霊が宿る土塊。精霊に効果のある武器でなければ、ダメージを与える事が　\n　できない。土属性のこの個体には、火属性で対抗すると効果的。　　　　　　\n【戦利品】道具・金品　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]Flying Object [Ele]Earth\n[Loc]Shadow Palace [Loot]Goods/Trade\nDirt with a spirit dwelling in it. Only weapons with spirit\neffects can damage it. Also weak to fire.",
-      "korean": "【종족】정령　【미확정명】비행하는 물체　【속성】땅　【출현】그늘의 왕궁\n정령이 깃든 흙덩이. 정령에 통하는 무기가 아니면 피해를 줄 수 없다.\n땅속성인 이 개체에는 불속성으로 맞서면 효과적이다.\n【전리품】도구·금품",
+      "korean": "【종족】정령　【미확정명】비행하는 물체　【속성】땅　【출현】그림자 왕궁\n정령이 깃든 흙덩이. 정령에 통하는 무기가 아니면 피해를 줄 수 없다.\n땅속성인 이 개체에는 불속성으로 맞서면 효과적이다.\n【전리품】도구·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174051,7 +174051,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】－－－－－－　【属性】無　【出現】陰の王宮　　\n　悠久の年月を経るうちに、多くのスライムが合体した固有種。あらゆるものを\n　その身に包んで吸収してしまう。また、強い自己修復能力をも持っている。　\n【戦利品】帽子・下着・服　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]--- [Ele]None\n[Loc]Shadow Palace [Loot]Hat/Underwear/Clothing\nA unique race of slime that is the result of multiple slimes\nfusing together over time. It absorbs anything and regenerates.",
-      "korean": "【종족】정령　【미확정명】−−−−−−　【속성】무　【출현】그늘의 왕궁\n유구의 세월을 거치는 동안 많은 슬라임이 합체한 고유종. 모든 것을\n그 몸으로 감싸 흡수해 버린다. 또한 강한 자기 복구 능력도 가지고 있다.\n【전리품】모자·속옷·의복",
+      "korean": "【종족】정령　【미확정명】−−−−−−　【속성】무　【출현】그림자 왕궁\n유구의 세월을 거치는 동안 많은 슬라임이 합체한 고유종. 모든 것을\n그 몸으로 감싸 흡수해 버린다. 또한 강한 자기 복구 능력도 가지고 있다.\n【전리품】모자·속옷·의복",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174073,7 +174073,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】謎の物体　　　【属性】無　【出現】陰の王宮　　\n　粘液を鋼鉄のように硬化させる事ができるスライム。この手の魔法生物は、　\n　物理攻撃は無論、状態異常を引き起こす全ての魔法を無効化する特性がある。\n【戦利品】道具・金品　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]Mysterious Object [Ele]None\n[Loc]Shadow Palace [Loot]Goods/Trade\nA slime with an iron-like body. Physical attacks do not work on\nmagical creatures like this, and it can nullify all magic.",
-      "korean": "【종족】정령　【미확정명】수수께끼의 물체　【속성】무　【출현】그늘의 왕궁\n점액을 강철처럼 굳힐 수 있는 슬라임. 이런 마법 생물은 물리 공격은 물론\n상태 이상을 일으키는 모든 마법을 무효화하는 특성이 있다.\n【전리품】도구·금품",
+      "korean": "【종족】정령　【미확정명】수수께끼의 물체　【속성】무　【출현】그림자 왕궁\n점액을 강철처럼 굳힐 수 있는 슬라임. 이런 마법 생물은 물리 공격은 물론\n상태 이상을 일으키는 모든 마법을 무효화하는 특성이 있다.\n【전리품】도구·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174106,7 +174106,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】大きな人影　　【属性】無　【出現】陰の王宮　　\n　王宮騎士団に所属する魔法の甲冑兵。鎧の中は空っぽで、動力源の石だけが　\n　収められている。精霊に属する存在であり、普通の武器は効果がない。　　　\n【宝　箱】剣・盾・鎧・兜・鈍器・ソシアルナイトの心臓石　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]Big Shadow [Ele]None\n[Loc]Shadow Palace [Tre]Sword/Shield/Armor/Helmet/Hammer/Heart Stone\nA magical knight loyal to the Kingdom. A spirit wearing\na suit of armor. Its main source of power is a stone.",
-      "korean": "【종족】정령　【미확정명】큰 인영　【속성】무　【출현】그늘의 왕궁\n왕궁 기사단 소속의 마법 갑주병. 갑옷 안은 비어 있고 동력원인 돌만\n들어 있다. 정령에 속하는 존재라 일반 무기는 효과가 없다.\n【보물 상자】검·방패·갑옷·투구·둔기·소시알 나이트의 심장석",
+      "korean": "【종족】정령　【미확정명】큰 인영　【속성】무　【출현】그림자 왕궁\n왕궁 기사단 소속의 마법 갑주병. 갑옷 안은 비어 있고 동력원인 돌만\n들어 있다. 정령에 속하는 존재라 일반 무기는 효과가 없다.\n【보물 상자】검·방패·갑옷·투구·둔기·소시알 나이트의 심장석",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174128,7 +174128,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】大きな人影　　【属性】無　【出現】陰の王宮　　\n　王宮騎士団に所属する強化型甲冑兵。手にした鋼鉄の大楯は防御だけでなく、\n　叩き付ければ人間を肉饅頭に変えてしまうほど強力な武器でもある。　　　　\n【宝　箱】槍・鎧・ソシアルナイトの心臓石・兜・盾　　　　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]Big Shadow [Ele]None\n[Loc]Shadow Palace [Tre]Spear/Armor/Heart Stone/Helmet/Shield\nA powered-up knight loyal to the Kingdom. The giant shield\non its arm can guard but also crush a human body.",
-      "korean": "【종족】정령　【미확정명】큰 인영　【속성】무　【출현】그늘의 왕궁\n왕궁 기사단 소속의 강화형 갑주병. 손에 든 강철 대형 방패는 방어뿐 아니라,\n내리치면 사람을 고깃덩이로 만들 만큼 강력한 무기이기도 하다.\n【보물 상자】창·갑옷·소시알 나이트의 심장석·투구·방패",
+      "korean": "【종족】정령　【미확정명】큰 인영　【속성】무　【출현】그림자 왕궁\n왕궁 기사단 소속의 강화형 갑주병. 손에 든 강철 대형 방패는 방어뿐 아니라,\n내리치면 사람을 고깃덩이로 만들 만큼 강력한 무기이기도 하다.\n【보물 상자】창·갑옷·소시알 나이트의 심장석·투구·방패",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174304,7 +174304,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】謎の物体　　　【属性】無　【出現】地下死街　　\n　魔物の幼体が巣食う繭玉。成体になるまでの期間、ここで親の運んで来た　　\n　エサを食べて成長していくが、外敵が現れれば自ら牙を向いて戦う。　　　　\n【戦利品】魔族の臓器・光沢ある大殻・金品　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]Mysterious Object [Ele]None\n[Loc]Underground Ghost Town [Loot]Demon's Organs/Shiny Shell/Trade\nCocoon with a monster inside. It takes time to mature and\neats food its parents provide. Attacks strangers.",
-      "korean": "【종족】마족　【미확정명】수수께끼의 물체　【속성】무　【출현】지하 사령가\n마물의 유체가 둥지를 튼 고치. 성체가 될 때까지 어미가 가져온 먹이를\n먹고 자라지만, 외적이 나타나면 스스로 엄니를 드러내 싸운다.\n【전리품】마족의 장기·광택 나는 큰 껍질·금품",
+      "korean": "【종족】마족　【미확정명】수수께끼의 물체　【속성】무　【출현】유령 도시\n마물의 유체가 둥지를 튼 고치. 성체가 될 때까지 어미가 가져온 먹이를\n먹고 자라지만, 외적이 나타나면 스스로 엄니를 드러내 싸운다.\n【전리품】마족의 장기·광택 나는 큰 껍질·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174370,7 +174370,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】精霊　【不確定名】－－－－－－　【属性】無　【出現】陰の王宮　　\n　血統種として覚醒した王宮騎士団の魔導騎士。あらゆる面で一般の甲冑兵　　\n　を凌駕する力を持ち、「心臓石」を手にする者を無差別に攻撃する。　　　　\n【戦利品】鎧・斧・鈍器・兜・盾　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Spirit [Type]--- [Ele]None\n[Loc]Shadow Palace [Loot]Armor/Axe/Hammer/Helmet/Shield　\nA magic knight that awoke as a Lineage Type. It's strong in\nevery way and attacks anyone with a %qHeart Stone.%q",
-      "korean": "【종족】정령　【미확정명】−−−−−−　【속성】무　【출현】그늘의 왕궁\n혈통종으로 각성한 왕궁 기사단의 마도 기사. 모든 면에서 일반 갑주병을\n능가하는 힘을 지녔으며, 「심장석」을 가진 자를 무차별 공격한다.\n【전리품】갑옷·도끼·둔기·투구·방패",
+      "korean": "【종족】정령　【미확정명】−−−−−−　【속성】무　【출현】그림자 왕궁\n혈통종으로 각성한 왕궁 기사단의 마도 기사. 모든 면에서 일반 갑주병을\n능가하는 힘을 지녔으며, 「심장석」을 가진 자를 무차별 공격한다.\n【전리품】갑옷·도끼·둔기·투구·방패",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174414,7 +174414,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】－－－－－－　【属性】無　【出現】陰の王宮　　\n　倒しても倒しても蘇る謎の血統種。大して強くはないが、極度の寂しがり屋　\n　なのですぐに仲間を呼びたがる。誰も来ないと人知れず落ち込んでいる。　　\n【戦利品】兜・帽子　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]--- [Ele]None\n[Loc]Shadow Palace [Loot]Helmet/Hat\nA mysterious Lineage Type that revives. It's not strong, but it\ncalls upon its allies and gets sad when no one shows up.",
-      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】그늘의 왕궁\n쓰러뜨려도 계속 되살아나는 수수께끼의 혈통종. 그리 강하지는 않지만 외로움을 몹시 타서\n금세 동료를 부르려 한다. 아무도 오지 않으면 남몰래 풀이 죽는다.\n【전리품】투구·모자",
+      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】그림자 왕궁\n쓰러뜨려도 계속 되살아나는 수수께끼의 혈통종. 그리 강하지는 않지만 외로움을 몹시 타서\n금세 동료를 부르려 한다. 아무도 오지 않으면 남몰래 풀이 죽는다.\n【전리품】투구·모자",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174436,7 +174436,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】大きな人影　　【属性】土　【出現】陰の王宮　　\n　半蠅半人の姿となったポイニーの粉の中毒者。人間離れした筋力と　　　　　\n　飛行能力とを手に入れたが、知能は著しく低下してしまっている。　　　　　\n【戦利品】ポイニーの粉・道具・金品　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]Big Shadow [Ele]Earth\n[Loc]Shadow Palace [Loot]Poiney Powder/Goods/Trade\nA Poiney powder addict who became half fly, half human. It has\nmassive muscles and can fly, but its intelligence decreased.",
-      "korean": "【종족】마족　【미확정명】큰 인영　【속성】땅　【출현】그늘의 왕궁\n포이니 가루에 중독되어 반파리 반인간이 된 자. 인간을 초월한 근력과\n비행 능력을 얻었지만 지능은 현저히 떨어졌다.\n【전리품】포이니 가루·도구·금품",
+      "korean": "【종족】마족　【미확정명】큰 인영　【속성】땅　【출현】그림자 왕궁\n포이니 가루에 중독되어 반파리 반인간이 된 자. 인간을 초월한 근력과\n비행 능력을 얻었지만 지능은 현저히 떨어졌다.\n【전리품】포이니 가루·도구·금품",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174447,7 +174447,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】大きな人影　　【属性】土　【出現】陰の王宮　　\n　より重症の中毒者のなれの果て。腐肉や汚物を好み、死体やゴミを求めて　　\n　迷宮を彷徨っているが、なぜかオシャレだけには人一倍敏感である。　　　　\n【宝　箱】投擲・下着・帽子　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]Big Shadow [Ele]Earth\n[Loc]Shadow Palace [Tre]Throwing/Underwear/Hat\nWhat becomes of the worst addicts. It prefers rotten meat, but\nfor some reason, it still keeps up with fashion trends.",
-      "korean": "【종족】마족　【미확정명】큰 인영　【속성】땅　【출현】그늘의 왕궁\n더욱 심각한 중독자가 변이한 끝의 모습. 썩은 고기와 오물을 좋아해 시체와 쓰레기를 찾아\n미궁을 떠돌지만, 어째서인지 치장에만큼은 남들보다 유난히 민감하다.\n【보물 상자】투척·속옷·모자",
+      "korean": "【종족】마족　【미확정명】큰 인영　【속성】땅　【출현】그림자 왕궁\n더욱 심각한 중독자가 변이한 끝의 모습. 썩은 고기와 오물을 좋아해 시체와 쓰레기를 찾아\n미궁을 떠돌지만, 어째서인지 치장에만큼은 남들보다 유난히 민감하다.\n【보물 상자】투척·속옷·모자",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174458,7 +174458,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】大きな人影　　【属性】無　【出現】地下死街　　\n　あらゆる場所に糸を張り、獲物を待ち受ける蜘蛛の魔物。暗闇で怪しく光る　\n　その粘液が名前の由来となっている。　　　　　　　　　　　　　　　　　　\n【宝　箱】拳・下着・服・弓　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]Big Shadow [Ele]None\n[Loc]Underground Ghost Town [Tre]Fist/Underwear/Clothing/Bow\nA spider monster that spreads its web everywhere. Its\nweb shines like a diamond.",
-      "korean": "【종족】마족　【미확정명】큰 인영　【속성】무　【출현】지하 사령가\n모든 장소에 실을 치고 먹이를 기다리는 거미의 마물. 어둠 속에서 수상하게 빛나는\n그 점액이 이름의 유래가 되고 있다.\n【보물 상자】권갑·속옷·의복·활",
+      "korean": "【종족】마족　【미확정명】큰 인영　【속성】무　【출현】유령 도시\n모든 장소에 실을 치고 먹이를 기다리는 거미의 마물. 어둠 속에서 수상하게 빛나는\n그 점액이 이름의 유래가 되고 있다.\n【보물 상자】권갑·속옷·의복·활",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174469,7 +174469,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】－－－－－－　【属性】無　【出現】地下死街　　\n　長い年月を生き抜いて来た蜘蛛の女王。狩りのための毒の攻撃はもちろん、　\n　闇の血族としてオーマの波動すらも自在に操る。　　　　　　　　　　　　　\n【戦利品】拳・下着　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]--- [Ele]None\n[Loc]Underground Ghost Town [Loot]Fist/Underwear\nQueen of spiders that has lived for many years. It uses poison\nand also Ohma's Impact.",
-      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】지하 사령가\n오랜 세월을 살아온 거미의 여왕. 사냥을 위한 독 공격은 물론,\n어둠의 혈족으로서 오마의 파동까지 자유자재로 다룬다.\n【전리품】권갑·속옷",
+      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】유령 도시\n오랜 세월을 살아온 거미의 여왕. 사냥을 위한 독 공격은 물론,\n어둠의 혈족으로서 오마의 파동까지 자유자재로 다룬다.\n【전리품】권갑·속옷",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -174733,7 +174733,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "【種族】魔族　【不確定名】－－－－－－　【属性】無　【出現】長しえの箱舟\n　箱舟の主によって純血晶を埋め込まれ、魔王の力を与えられたワイバーン。　\n　オーマの波動を操るだけでなく、すべての能力が強化されている。　　　　　\n【戦利品】弓・投擲　　　　　　　　　　　　　　　　　　　　　　　　　　　",
       "source_en": "[Race]Demon [Type]--- [Ele]None\n[Loc]Ark of Eternity [Loot]Bow/Throwing\nA wyvern that had Blood Crystals embedded in its scales by the\nmaster. Its abilities are high and it can use Ohma's Impact.",
-      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】영원의 방주\n방주의 주인이 순혈정을 심어 마왕의 힘을 부여한 와이번.\n오마의 파동을 다룰 뿐 아니라 모든 능력이 강화되어 있다.\n【전리품】활·투척",
+      "korean": "【종족】마족　【미확정명】−−−−−−　【속성】무　【출현】영원의 방주\n방주의 주인이 혈정을 심어 마왕의 힘을 부여한 와이번.\n오마의 파동을 다룰 뿐 아니라 모든 능력이 강화되어 있다.\n【전리품】활·투척",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -176214,7 +176214,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "純血晶が不足しています。",
       "source_en": "",
-      "korean": "순혈정이 부족합니다.",
+      "korean": "혈정이 부족합니다.",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -176469,7 +176469,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "純血晶%s個が必要です。\nよろしいですか？",
       "source_en": "",
-      "korean": "순혈정이 %s개 필요합니다.\n계속하시겠습니까?",
+      "korean": "혈정이 %s개 필요합니다.\n계속하시겠습니까?",
       "protected_tokens": [
         "%s"
       ],
@@ -180716,7 +180716,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "　　『裁きの炎が剣の街を焼きつくし……\n　　　竜の器を持ちし者は、故郷へと帰還した』",
       "source_en": "",
-      "korean": "　　『심판의 불꽃이 검의 거리를 불태우고……\n　　　용의 그릇을 지닌 자는 고향으로 돌아갔다』",
+      "korean": "　　『심판의 불꽃이 검의 도시를 불태우고……\n　　　용의 그릇을 지닌 자는 고향으로 돌아갔다』",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -180779,7 +180779,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "　　　……剣の街の、異邦人として。",
       "source_en": "",
-      "korean": "　　　……검의 거리의 이방인으로서.",
+      "korean": "　　　……검의 도시의 이방인으로서.",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -180823,7 +180823,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "　　　あの剣の街での記憶も、\n　　　すべてが朧に消えようとしている……",
       "source_en": "",
-      "korean": "　　　검의 거리에서의 기억도,\n　　　모두 희미하게 사라져 간다……",
+      "korean": "　　　검의 도시에서의 기억도,\n　　　모두 희미하게 사라져 간다……",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -180867,7 +180867,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "　　　　かつて剣の街で私たちと共に戦った、\n　　　　あの熱い血潮は……",
       "source_en": "",
-      "korean": "　　　　한때 검의 거리에서 우리와 함께 싸웠던,\n　　　　그 뜨거운 피는……",
+      "korean": "　　　　한때 검의 도시에서 우리와 함께 싸웠던,\n　　　　그 뜨거운 피는……",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -180944,7 +180944,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "『かくて世は光に満たされ、剣の街は新たなる統治の下\n　さらなる繁栄を迎えた……』",
       "source_en": "",
-      "korean": "『그리하여 세상은 빛으로 가득 찼고, 검의 거리는 새 통치 아래\n　더욱 번영했다……』",
+      "korean": "『그리하여 세상은 빛으로 가득 찼고, 검의 도시는 새 통치 아래\n　더욱 번영했다……』",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -180988,7 +180988,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "『かくて世は闇に包まれ、剣の街は新たなる統治の下\n　さらなる繁栄を迎えた……』",
       "source_en": "",
-      "korean": "『그리하여 세상은 어둠에 잠겼고, 검의 거리는 새 통치 아래\n　더욱 번영했다……』",
+      "korean": "『그리하여 세상은 어둠에 잠겼고, 검의 도시는 새 통치 아래\n　더욱 번영했다……』",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -181065,7 +181065,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "　　　　かつて私たちが共に戦った剣の街……\n　　　　その物語は、こうして幕を閉じた。",
       "source_en": "",
-      "korean": "　　　　한때 우리가 함께 싸웠던 검의 거리……\n　　　　그 이야기는 이렇게 막을 내렸다.",
+      "korean": "　　　　한때 우리가 함께 싸웠던 검의 도시……\n　　　　그 이야기는 이렇게 막을 내렸다.",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -181735,7 +181735,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "剣の街の異邦人 白の王宮 体験版",
       "source_en": "",
-      "korean": "검의 거리의 이방인 백색 왕궁 체험판",
+      "korean": "검의 도시의 이방인 백색 왕궁 체험판",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -182263,7 +182263,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "地下死街",
       "source_en": "",
-      "korean": "지하 사령가",
+      "korean": "유령 도시",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -182285,7 +182285,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "陰の王宮",
       "source_en": "",
-      "korean": "그늘의 왕궁",
+      "korean": "그림자 왕궁",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -182307,7 +182307,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "地下死街",
       "source_en": "",
-      "korean": "지하 사령가",
+      "korean": "유령 도시",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -182329,7 +182329,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "陰の王宮",
       "source_en": "",
-      "korean": "그늘의 왕궁",
+      "korean": "그림자 왕궁",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -183442,7 +183442,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "軽刃",
       "source_en": "",
-      "korean": "경인",
+      "korean": "경검",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -183585,7 +183585,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "重刃",
       "source_en": "",
-      "korean": "중인",
+      "korean": "중검",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
@@ -184146,7 +184146,7 @@
       "source_file": "StrangerOfSwordCity.exe",
       "source_jp": "純血晶",
       "source_en": "",
-      "korean": "순혈정",
+      "korean": "혈정",
       "protected_tokens": [],
       "capacity_bytes": null,
       "status": "precision_reviewed_static_verified"
